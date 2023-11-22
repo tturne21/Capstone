@@ -1,0 +1,490 @@
+Company,Item,Calories,"Total Fat
+(g)","Saturated Fat
+(g)","Cholesterol
+(mg)","Sodium 
+(mg)","Carbs
+(g)","Fiber
+(g)","Sugars
+(g)","Protein
+(g)",Item Type
+McDonald’s,Hamburger,250.00 ,9.00 ,3.50 ,25.00 ,520.00 ,31.00 ,2.00 ,6.00 ,12.00 ,LD
+McDonald’s,Cheeseburger,300.00 ,12.00 ,6.00 ,40.00 ,750.00 ,33.00 ,2.00 ,6.00 ,15.00 ,LD
+McDonald’s,Double Cheeseburger,440.00 ,23.00 ,11.00 ,80.00 ,"1,150.00 ",34.00 ,2.00 ,7.00 ,25.00 ,LD
+McDonald’s,McDouble,390.00 ,19.00 ,8.00 ,65.00 ,920.00 ,33.00 ,2.00 ,7.00 ,22.00 ,LD
+McDonald’s, Quarter Pounder® with Cheese,510.00 ,26.00 ,12.00 ,90.00 ,"1,190.00 ",40.00 ,3.00 ,9.00 ,29.00 ,LD
+McDonald’s,Double Quarter Pounder® with Cheese,740.00 ,42.00 ,19.00 ,155.00 ,"1,380.00 ",40.00 ,3.00 ,9.00 ,48.00 ,LD
+McDonald’s,Big Mac®,540.00 ,29.00 ,10.00 ,75.00 ,"1,040.00 ",45.00 ,3.00 ,9.00 ,25.00 ,LD
+McDonald’s,Big N’ Tasty®,460.00 ,24.00 ,8.00 ,70.00 ,720.00 ,37.00 ,3.00 ,8.00 ,24.00 ,LD
+McDonald’s,Big N’ Tasty® with Cheese,510.00 ,28.00 ,11.00 ,85.00 ,960.00 ,38.00 ,3.00 ,8.00 ,27.00 ,LD
+McDonald’s,Angus Bacon & Cheese,790.00 ,39.00 ,17.00 ,145.00 ,"2,070.00 ",63.00 ,4.00 ,13.00 ,45.00 ,LD
+McDonald’s,Angus Deluxe,750.00 ,39.00 ,16.00 ,135.00 ,"1,700.00 ",61.00 ,4.00 ,10.00 ,40.00 ,LD
+McDonald’s,Angus Mushroom & Swiss,770.00 ,40.00 ,17.00 ,135.00 ,"1,170.00 ",59.00 ,4.00 ,8.00 ,44.00 ,LD
+McDonald’s,Filet-O-Fish®,380.00 ,18.00 ,3.50 ,40.00 ,640.00 ,38.00 ,2.00 ,5.00 ,15.00 ,LD
+McDonald’s,McChicken ®,360.00 ,16.00 ,3.00 ,35.00 ,830.00 ,40.00 ,2.00 ,5.00 ,14.00 ,LD
+McDonald’s,McRib ®,500.00 ,26.00 ,10.00 ,70.00 ,980.00 ,44.00 ,3.00 ,11.00 ,22.00 ,LD
+McDonald’s,Premium Grilled Chicken Classic Sandwich,360.00 ,9.00 ,2.00 ,65.00 ,820.00 ,41.00 ,4.00 ,8.00 ,27.00 ,LD
+McDonald’s,Premium Crispy Chicken Classic Sandwich,510.00 ,22.00 ,3.50 ,45.00 ,990.00 ,56.00 ,3.00 ,10.00 ,24.00 ,LD
+McDonald’s,Premium Grilled Chicken Club Sandwich,460.00 ,17.00 ,6.00 ,90.00 ,"1,040.00 ",43.00 ,4.00 ,9.00 ,35.00 ,LD
+McDonald’s,Premium Crispy Chicken Club Sandwich,620.00 ,29.00 ,7.00 ,70.00 ,"1,200.00 ",57.00 ,3.00 ,11.00 ,31.00 ,LD
+McDonald’s,Premium Grilled Chicken Ranch BLT Sandwich,380.00 ,10.00 ,3.00 ,75.00 ,"1,000.00 ",41.00 ,4.00 ,9.00 ,31.00 ,LD
+McDonald’s,Premium Crispy Chicken Ranch BLT Sandwich,540.00 ,23.00 ,4.50 ,55.00 ,"1,160.00 ",56.00 ,3.00 ,11.00 ,27.00 ,LD
+McDonald’s,Southern Style Crispy Chicken Sandwich,400.00 ,17.00 ,3.00 ,45.00 ,"1,030.00 ",39.00 ,1.00 ,6.00 ,24.00 ,LD
+McDonald’s,Ranch Snack Wrap® (Crispy),340.00 ,17.00 ,4.50 ,30.00 ,810.00 ,33.00 ,1.00 ,2.00 ,14.00 ,LD
+McDonald’s,Ranch Snack Wrap® (Grilled),270.00 ,10.00 ,4.00 ,45.00 ,830.00 ,26.00 ,1.00 ,2.00 ,18.00 ,LD
+McDonald’s,Honey Mustard Snack Wrap® (Crispy),330.00 ,16.00 ,4.50 ,30.00 ,780.00 ,34.00 ,1.00 ,4.00 ,14.00 ,LD
+McDonald’s,Honey Mustard Snack Wrap® (Grilled),260.00 ,9.00 ,3.50 ,45.00 ,800.00 ,27.00 ,1.00 ,4.00 ,18.00 ,LD
+McDonald’s,Chipotle BBQ Snack Wrap® (Crispy),330.00 ,15.00 ,4.50 ,30.00 ,810.00 ,35.00 ,1.00 ,4.00 ,14.00 ,LD
+McDonald’s,Chipotle BBQ Snack Wrap® (Grilled),260.00 ,9.00 ,3.50 ,45.00 ,830.00 ,28.00 ,1.00 ,5.00 ,18.00 ,LD
+McDonald’s,Angus Bacon & Cheese Snack Wrap,390.00 ,21.00 ,9.00 ,75.00 ,"1,080.00 ",28.00 ,1.00 ,4.00 ,21.00 ,LD
+McDonald’s,Angus Chipotle BBQ Bacon,800.00 ,39.00 ,18.00 ,145.00 ,"2,020.00 ",66.00 ,4.00 ,16.00 ,45.00 ,LD
+McDonald’s,Angus Chipotle BBQ Bacon Snack Wrap,400.00 ,22.00 ,10.00 ,75.00 ,"1,060.00 ",30.00 ,1.00 ,6.00 ,21.00 ,LD
+McDonald’s,Angus Deluxe Snack Wrap,410.00 ,25.00 ,10.00 ,75.00 ,990.00 ,27.00 ,2.00 ,3.00 ,20.00 ,LD
+McDonald’s,Angus Mushroom & Swiss Snack Wrap,430.00 ,26.00 ,10.00 ,75.00 ,730.00 ,27.00 ,2.00 ,2.00 ,22.00 ,LD
+McDonald’s,Mac Snack Wrap,330.00 ,19.00 ,7.00 ,45.00 ,690.00 ,26.00 ,1.00 ,3.00 ,15.00 ,LD
+McDonald’s,Small French Fries,230.00 ,11.00 ,1.50 ,0.00 ,160.00 ,29.00 ,3.00 ,0.00 ,3.00 ,S
+McDonald’s,Medium French Fries,380.00 ,19.00 ,2.50 ,0.00 ,270.00 ,48.00 ,5.00 ,0.00 ,4.00 ,S
+McDonald’s,Large French Fries,500.00 ,25.00 ,3.50 ,0.00 ,350.00 ,63.00 ,6.00 ,0.00 ,6.00 ,S
+McDonald’s,Chicken McNuggets® (4 piece),190.00 ,12.00 ,2.00 ,25.00 ,360.00 ,12.00 ,1.00 ,0.00 ,9.00 ,LD
+McDonald’s,Chicken McNuggets® (6 piece),280.00 ,18.00 ,3.00 ,40.00 ,540.00 ,18.00 ,1.00 ,0.00 ,13.00 ,LD
+McDonald’s,Chicken McNuggets® (10 piece),470.00 ,30.00 ,5.00 ,65.00 ,900.00 ,30.00 ,2.00 ,0.00 ,22.00 ,LD
+McDonald’s,Chicken Selects® Premium Breast Strips (3 pc),400.00 ,24.00 ,3.50 ,50.00 ,"1,010.00 ",23.00 ,0.00 ,0.00 ,23.00 ,LD
+McDonald’s,Chicken Selects® Premium Breast Strips (5 pc),660.00 ,40.00 ,6.00 ,85.00 ,"1,680.00 ",39.00 ,0.00 ,0.00 ,38.00 ,LD
+McDonald’s,Premium Southwest Salad with Grilled Chicken,320.00 ,9.00 ,3.00 ,70.00 ,960.00 ,30.00 ,6.00 ,11.00 ,30.00 ,LD
+McDonald’s,Premium Southwest Salad with Crispy Chicken,430.00 ,20.00 ,4.00 ,55.00 ,920.00 ,38.00 ,6.00 ,12.00 ,26.00 ,LD
+McDonald’s,Premium Southwest Salad (without chicken),140.00 ,4.50 ,2.00 ,10.00 ,150.00 ,20.00 ,6.00 ,6.00 ,6.00 ,LD
+McDonald’s,Premium Bacon Ranch Salad with Grilled Chicken,260.00 ,9.00 ,4.00 ,90.00 ,"1,010.00 ",12.00 ,3.00 ,5.00 ,33.00 ,LD
+McDonald’s,Premium Bacon Ranch Salad with Crispy Chicken,370.00 ,20.00 ,6.00 ,75.00 ,970.00 ,20.00 ,3.00 ,6.00 ,29.00 ,LD
+McDonald’s,Premium Bacon Ranch Salad (without chicken),140.00 ,7.00 ,3.50 ,25.00 ,300.00 ,10.00 ,3.00 ,4.00 ,9.00 ,LD
+McDonald’s,Premium Caesar Salad with Grilled Chicken,220.00 ,6.00 ,3.00 ,75.00 ,890.00 ,12.00 ,3.00 ,5.00 ,30.00 ,LD
+McDonald’s,Premium Caesar Salad with Crispy Chicken,330.00 ,17.00 ,4.50 ,60.00 ,840.00 ,20.00 ,3.00 ,6.00 ,26.00 ,LD
+McDonald’s,Premium Caesar Salad (without chicken),90.00 ,4.00 ,2.50 ,10.00 ,180.00 ,9.00 ,3.00 ,4.00 ,7.00 ,LD
+McDonald’s,Side Salad,20.00 ,0.00 ,0.00 ,0.00 ,10.00 ,4.00 ,1.00 ,2.00 ,1.00 ,S
+McDonald’s,Snack Size Fruit & Walnut Salad,210.00 ,8.00 ,1.50 ,5.00 ,60.00 ,31.00 ,2.00 ,25.00 ,4.00 ,S
+McDonald’s,Egg McMuffin®,300.00 ,12.00 ,5.00 ,260.00 ,820.00 ,30.00 ,2.00 ,3.00 ,18.00 ,B
+McDonald’s,Sausage McMuffin®,370.00 ,22.00 ,8.00 ,45.00 ,850.00 ,29.00 ,2.00 ,2.00 ,14.00 ,B
+McDonald’s,Sausage McMuffin® with Egg,450.00 ,27.00 ,10.00 ,285.00 ,920.00 ,30.00 ,2.00 ,2.00 ,21.00 ,B
+McDonald’s,English Muffin,160.00 ,3.00 ,0.50 ,0.00 ,280.00 ,27.00 ,2.00 ,2.00 ,5.00 ,B
+McDonald’s,"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",420.00 ,23.00 ,12.00 ,235.00 ,"1,160.00 ",37.00 ,2.00 ,3.00 ,15.00 ,B
+McDonald’s,"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",480.00 ,27.00 ,12.00 ,235.00 ,"1,270.00 ",43.00 ,3.00 ,4.00 ,15.00 ,B
+McDonald’s,Sausage Biscuit with Egg (Regular Size Biscuit),510.00 ,33.00 ,14.00 ,250.00 ,"1,170.00 ",36.00 ,2.00 ,2.00 ,18.00 ,B
+McDonald’s,Sausage Biscuit with Egg (Large Size Biscuit),570.00 ,37.00 ,15.00 ,250.00 ,"1,280.00 ",42.00 ,3.00 ,3.00 ,18.00 ,B
+McDonald’s,Sausage Biscuit (Regular Size Biscuit),430.00 ,27.00 ,12.00 ,30.00 ,"1,080.00 ",34.00 ,2.00 ,2.00 ,11.00 ,B
+McDonald’s,Sausage Biscuit (Large Size Biscuit),480.00 ,31.00 ,13.00 ,30.00 ,"1,190.00 ",39.00 ,3.00 ,3.00 ,11.00 ,B
+McDonald’s,Southern Style Chicken Biscuit (Regular Size Biscuit),410.00 ,20.00 ,8.00 ,30.00 ,"1,180.00 ",41.00 ,2.00 ,3.00 ,17.00 ,B
+McDonald’s,Southern Style Chicken Biscuit (Large Size Biscuit),470.00 ,24.00 ,9.00 ,30.00 ,"1,290.00 ",46.00 ,3.00 ,4.00 ,17.00 ,B
+McDonald’s,"Steak, Egg & Cheese Bagel",660.00 ,33.00 ,12.00 ,300.00 ,"1,580.00 ",56.00 ,3.00 ,7.00 ,33.00 ,B
+McDonald’s,"Bacon, Egg & Cheese McGriddles®",420.00 ,18.00 ,8.00 ,240.00 ,"1,110.00 ",48.00 ,2.00 ,15.00 ,15.00 ,B
+McDonald’s,"Sausage, Egg & Cheese McGriddles®",560.00 ,32.00 ,12.00 ,265.00 ,"1,360.00 ",48.00 ,2.00 ,15.00 ,20.00 ,B
+McDonald’s,Sausage McGriddles®,420.00 ,22.00 ,8.00 ,35.00 ,"1,030.00 ",44.00 ,2.00 ,15.00 ,11.00 ,B
+McDonald’s,Big Breakfast® (Regular Size Biscuit),740.00 ,48.00 ,17.00 ,555.00 ,"1,560.00 ",51.00 ,3.00 ,3.00 ,28.00 ,B
+McDonald’s,Big Breakfast® (Large Size Biscuit),800.00 ,52.00 ,18.00 ,555.00 ,"1,680.00 ",56.00 ,4.00 ,3.00 ,28.00 ,B
+McDonald’s,Big Breakfast with Hotcakes (Regular Size Biscuit),"1,090.00 ",56.00 ,19.00 ,575.00 ,"2,150.00 ",111.00 ,6.00 ,17.00 ,36.00 ,B
+McDonald’s,Big Breakfast with Hotcakes (Large Size Biscuit),"1,150.00 ",60.00 ,20.00 ,575.00 ,"2,260.00 ",116.00 ,7.00 ,17.00 ,36.00 ,B
+McDonald’s,Sausage Burrito,300.00 ,16.00 ,7.00 ,115.00 ,830.00 ,26.00 ,1.00 ,2.00 ,12.00 ,B
+McDonald’s,McSkillet™ Burrito with Sausage,610.00 ,36.00 ,14.00 ,410.00 ,"1,390.00 ",44.00 ,3.00 ,4.00 ,27.00 ,B
+McDonald’s,Hotcakes,350.00 ,9.00 ,2.00 ,20.00 ,590.00 ,60.00 ,3.00 ,14.00 ,8.00 ,B
+McDonald’s,Hotcakes and Sausage,520.00 ,24.00 ,7.00 ,50.00 ,930.00 ,61.00 ,3.00 ,14.00 ,15.00 ,B
+McDonald’s,Hash Brown,150.00 ,9.00 ,1.50 ,0.00 ,310.00 ,15.00 ,2.00 ,0.00 ,1.00 ,BS
+McDonald’s,"Bacon, Egg & Cheese Bagel",560.00 ,27.00 ,9.00 ,260.00 ,"1,300.00 ",56.00 ,3.00 ,7.00 ,24.00 ,B
+McDonald’s,Fruit & Maple Oatmeal,290.00 ,4.50 ,2.00 ,10.00 ,160.00 ,57.00 ,5.00 ,32.00 ,5.00 ,B
+McDonald’s,Fruit & Maple Oatmeal without Brown Sugar,260.00 ,4.50 ,2.00 ,10.00 ,115.00 ,48.00 ,5.00 ,18.00 ,5.00 ,B
+McDonald’s,Hamburger Happy Meal,475.00 ,16.00 ,5.5 g,40.00 ,690.00 ,62.00 ,2.00 ,20.00 ,22.00 ,LD
+McDonald’s,4 Piece Chicken McNuggets Happy Meal,395.00 ,17.00 ,3.50 ,35.00 ,510.00 ,41.00 ,1.00 ,14.00 ,19.00 ,LD
+McDonald’s,6 Piece Chicken McNuggets® Happy Meal,475.00 ,22.00 ,4.50 ,50.00 ,680.00 ,46.00 ,2.00 ,14.00 ,24.00 ,LD
+Burger King,Whopper® Sandwich,660.00 ,40.00 ,12.00 ,90.00 ,980.00 ,49.00 ,2.00 ,11.00 ,28.00 ,
+Burger King,Whopper® Sandwich with Cheese,740.00 ,46.00 ,16.00 ,115.00 ,"1,340.00 ",50.00 ,2.00 ,11.00 ,32.00 ,
+Burger King,Bacon & Cheese Whopper® Sandwich,790.00 ,51.00 ,17.00 ,125.00 ,"1,560.00 ",50.00 ,2.00 ,11.00 ,35.00 ,
+Burger King,Double Whopper® Sandwich,900.00 ,58.00 ,20.00 ,175.00 ,"1,050.00 ",49.00 ,2.00 ,11.00 ,48.00 ,
+Burger King,Double Whopper® Sandwich with Cheese,980.00 ,64.00 ,24.00 ,195.00 ,"1,410.00 ",50.00 ,2.00 ,11.00 ,52.00 ,
+Burger King,Triple Whopper® Sandwich,"1,130.00 ",75.00 ,28.00 ,255.00 ,"1,120.00 ",49.00 ,2.00 ,11.00 ,67.00 ,
+Burger King,Triple Whopper® Sandwich with Cheese,"1,220.00 ",82.00 ,32.00 ,280.00 ,"1,470.00 ",50.00 ,2.00 ,11.00 ,71.00 ,
+Burger King,Whopper JR.® Sandwich,310.00 ,18.00 ,5.00 ,40.00 ,390.00 ,27.00 ,1.00 ,7.00 ,13.00 ,
+Burger King,Bacon King Sandwich,"1,150.00 ",79.00 ,31.00 ,240.00 ,"2,150.00 ",49.00 ,2.00 ,10.00 ,61.00 ,
+Burger King,Cheddar Bacon King Sandwich,"1,190.00 ",84.00 ,33.00 ,235.00 ,"1,930.00 ",50.00 ,2.00 ,11.00 ,64.00 ,
+Burger King,Single Quarter Pound King Sandwich,580.00 ,29.00 ,13.00 ,105.00 ,"1,310.00 ",49.00 ,2.00 ,10.00 ,32.00 ,
+Burger King,Double Quarter Pound King Sandwich,900.00 ,54.00 ,25.00 ,210.00 ,"1,740.00 ",50.00 ,2.00 ,11.00 ,56.00 ,
+Burger King,Single Stacker King,700.00 ,42.00 ,16.00 ,125.00 ,"1,360.00 ",48.00 ,1.00 ,10.00 ,35.00 ,
+Burger King,Double Stacker King,"1,050.00 ",68.00 ,28.00 ,235.00 ,"1,870.00 ",49.00 ,1.00 ,11.00 ,61.00 ,
+Burger King,IMPOSSIBLE Whopper® Sandwich,630.00 ,34.00 ,11.00 ,10.00 ,"1,080.00 ",58.00 ,4.00 ,12.00 ,25.00 ,
+Burger King,Hamburger,240.00 ,10.00 ,3.50 ,35.00 ,380.00 ,26.00 ,1.00 ,6.00 ,13.00 ,
+Burger King,Cheeseburger,280.00 ,13.00 ,6.00 ,45.00 ,560.00 ,27.00 ,1.00 ,7.00 ,15.00 ,
+Burger King,Double Hamburger,350.00 ,18.00 ,7.00 ,70.00 ,410.00 ,26.00 ,1.00 ,6.00 ,21.00 ,
+Burger King,Double Cheeseburger,390.00 ,21.00 ,9.00 ,85.00 ,590.00 ,27.00 ,1.00 ,7.00 ,23.00 ,
+Burger King,Extra Long Cheeseburger,630.00 ,37.00 ,14.00 ,100.00 ,"1,050.00 ",45.00 ,2.00 ,9.00 ,29.00 ,
+Burger King,Bacon Cheeseburger,320.00 ,16.00 ,7.00 ,55.00 ,710.00 ,27.00 ,1.00 ,7.00 ,17.00 ,
+Burger King,Bacon Double Cheeseburger,420.00 ,24.00 ,10.00 ,90.00 ,740.00 ,27.00 ,1.00 ,7.00 ,25.00 ,
+Burger King,Crispy Chicken Sandwich,670.00 ,41.00 ,7.00 ,60.00 ,"1,080.00 ",54.00 ,2.00 ,8.00 ,23.00 ,
+Burger King,Spicy Crispy Chicken Sandwich,700.00 ,42.00 ,7.00 ,65.00 ,"1,140.00 ",57.00 ,3.00 ,8.00 ,25.00 ,
+Burger King,Original Chicken Sandwich,660.00 ,40.00 ,7.00 ,75.00 ,"1,170.00 ",48.00 ,2.00 ,5.00 ,28.00 ,
+Burger King,Bacon & Cheese Crispy Chicken Sandwich,800.00 ,52.00 ,13.00 ,95.00 ,"1,650.00 ",55.00 ,2.00 ,8.00 ,30.00 ,
+Burger King,BBQ Bacon Crispy Chicken Sandwich,790.00 ,49.00 ,10.00 ,80.00 ,"1,630.00 ",60.00 ,2.00 ,13.00 ,28.00 ,
+Burger King,Crispy Chicken Jr.,450.00 ,30.00 ,5.00 ,30.00 ,780.00 ,34.00 ,2.00 ,5.00 ,12.00 ,
+Burger King,Spicy Crispy Chicken Jr.,390.00 ,21.00 ,3.50 ,30.00 ,740.00 ,37.00 ,2.00 ,6.00 ,12.00 ,
+Burger King,Chicken Nuggets- 4pc,170.00 ,11.00 ,1.50 ,25.00 ,310.00 ,11.00 ,1.00 ,0.00 ,8.00 ,
+Burger King,Chicken Nuggets- 6pc,260.00 ,16.00 ,2.50 ,35.00 ,470.00 ,16.00 ,1.00 ,0.00 ,12.00 ,
+Burger King,Chicken Nuggets- 10pc,430.00 ,27.00 ,4.50 ,55.00 ,780.00 ,27.00 ,2.00 ,0.00 ,20.00 ,
+Burger King,Chicken Nuggets- 20pc,860.00 ,54.00 ,9.00 ,115.00 ,"1,570.00 ",53.00 ,3.00 ,1.00 ,39.00 ,
+Burger King,Spicy Chicken Nuggets- 4pc,210.00 ,15.00 ,3.00 ,20.00 ,570.00 ,11.00 ,2.00 ,0.00 ,8.00 ,
+Burger King,Spicy Chicken Nuggets- 6pc,320.00 ,22.00 ,4.50 ,35.00 ,850.00 ,17.00 ,3.00 ,0.00 ,12.00 ,
+Burger King,Spicy Chicken Nuggets- 10 pc,530.00 ,37.00 ,7.00 ,55.00 ,"1,420.00 ",28.00 ,4.00 ,1.00 ,20.00 ,
+Burger King,Spicy Chicken Nuggets- 20 pc,"1,050.00 ",74.00 ,15.00 ,110.00 ,"2,840.00 ",56.00 ,9.00 ,1.00 ,40.00 ,
+Burger King,Chicken Fries – 9 pc.,280.00 ,17.00 ,2.50 ,35.00 ,850.00 ,20.00 ,1.00 ,1.00 ,13.00 ,
+Burger King,Crispy Taco,170.00 ,9.00 ,3.00 ,10.00 ,410.00 ,19.00 ,2.00 ,1.00 ,5.00 ,
+Burger King,BIG FISH Sandwich,510.00 ,28.00 ,4.50 ,30.00 ,"1,180.00 ",51.00 ,2.00 ,7.00 ,16.00 ,
+Burger King,Garden Chicken Salad with Crispy Chicken – no dressing,440.00 ,25.00 ,7.00 ,75.00 ,930.00 ,31.00 ,3.00 ,4.00 ,25.00 ,
+Burger King,Club Salad with Crispy Chicken – no dressing,540.00 ,33.00 ,10.00 ,95.00 ,"1,380.00 ",31.00 ,3.00 ,5.00 ,31.00 ,
+Burger King,Garden Side Salad – w/o dressing,60.00 ,4.00 ,2.50 ,10.00 ,95.00 ,3.00 ,1.00 ,2.00 ,4.00 ,S
+Burger King,Onion Rings – value,150.00 ,8.00 ,1.50 ,0.00 ,400.00 ,19.00 ,1.00 ,2.00 ,1.00 ,S
+Burger King,Onion Rings – small,320.00 ,16.00 ,3.00 ,0.00 ,840.00 ,41.00 ,3.00 ,4.00 ,3.00 ,S
+Burger King,Onion Rings – medium,410.00 ,21.00 ,3.50 ,0.00 ,"1,080.00 ",53.00 ,4.00 ,5.00 ,4.00 ,S
+Burger King,Onion Rings – large,500.00 ,25.00 ,4.50 ,0.00 ,"1,310.00 ",64.00 ,5.00 ,7.00 ,5.00 ,S
+Burger King,French Fries – value (unsalted),220.00 ,9.00 ,1.50 ,0.00 ,210.00 ,34.00 ,3.00 ,1.00 ,2.00 ,S
+Burger King,French Fries – small,320.00 ,13.00 ,2.00 ,0.00 ,300.00 ,49.00 ,5.00 ,1.00 ,4.00 ,S
+Burger King,French Fries – medium,380.00 ,16.00 ,2.00 ,0.00 ,360.00 ,58.00 ,6.00 ,1.00 ,4.00 ,S
+Burger King,French Fries – large,430.00 ,18.00 ,2.50 ,0.00 ,410.00 ,66.00 ,7.00 ,2.00 ,5.00 ,S
+Burger King,Kids Oatmeal,170.00 ,3.00 ,1.50 ,5.00 ,260.00 ,32.00 ,3.00 ,12.00 ,4.00 ,B
+Burger King,Chicken Nuggets- 4pc,170.00 ,11.00 ,1.50 ,25.00 ,310.00 ,11.00 ,1.00 ,0.00 ,8.00 ,
+Burger King,Chicken Nuggets- 6pc,260.00 ,16.00 ,2.50 ,35.00 ,470.00 ,16.00 ,1.00 ,0.00 ,12.00 ,
+Burger King,Hamburger,240.00 ,10.00 ,3.50 ,35.00 ,380.00 ,26.00 ,1.00 ,6.00 ,13.00 ,
+Burger King,Cheeseburger,280.00 ,13.00 ,6.00 ,45.00 ,560.00 ,27.00 ,1.00 ,7.00 ,15.00 ,
+Burger King,CROISSAN’WICH® Egg & Cheese,340.00 ,18.00 ,8.00 ,160.00 ,610.00 ,29.00 ,1.00 ,4.00 ,12.00 ,B
+Burger King,"CROISSAN’WICH® Sausage, Egg & Cheese",500.00 ,33.00 ,13.00 ,195.00 ,930.00 ,30.00 ,1.00 ,4.00 ,19.00 ,B
+Burger King,"CROISSAN’WICH® Ham, Egg & Cheese",370.00 ,19.00 ,8.00 ,175.00 ,"1,030.00 ",30.00 ,1.00 ,5.00 ,17.00 ,B
+Burger King,"CROISSAN’WICH® Bacon, Egg & Cheese",370.00 ,21.00 ,9.00 ,170.00 ,760.00 ,30.00 ,1.00 ,4.00 ,14.00 ,B
+Burger King,Fully Loaded CROISSAN’WICH®,610.00 ,40.00 ,17.00 ,225.00 ,"1,680.00 ",31.00 ,1.00 ,5.00 ,28.00 ,B
+Burger King,Double CROISSAN’WICH® with Sausage & Bacon,580.00 ,40.00 ,16.00 ,215.00 ,"1,260.00 ",31.00 ,1.00 ,5.00 ,23.00 ,B
+Burger King,Double CROISSAN’WICH® with Sausage,710.00 ,52.00 ,20.00 ,240.00 ,"1,420.00 ",31.00 ,1.00 ,5.00 ,29.00 ,B
+Burger King,Double CROISSAN’WICH® with Ham & Sausage,580.00 ,38.00 ,16.00 ,220.00 ,"1,530.00 ",31.00 ,1.00 ,5.00 ,27.00 ,B
+Burger King,Fully Loaded Biscuit,640.00 ,45.00 ,20.00 ,225.00 ,"2,190.00 ",31.00 ,1.00 ,4.00 ,28.00 ,B
+Burger King,"Ham, Egg, & Cheese Biscuit",400.00 ,24.00 ,12.00 ,175.00 ,"1,550.00 ",29.00 ,1.00 ,3.00 ,17.00 ,B
+Burger King,"Sausage, Egg, & Cheese Biscuit",530.00 ,38.00 ,17.00 ,195.00 ,"1,440.00 ",29.00 ,1.00 ,3.00 ,19.00 ,B
+Burger King,"Bacon, Egg & Cheese Biscuit",400.00 ,26.00 ,13.00 ,170.00 ,"1,270.00 ",29.00 ,1.00 ,3.00 ,13.00 ,B
+Burger King,Sausage Biscuit,420.00 ,28.00 ,6.00 ,35.00 ,"1,050.00 ",28.00 ,1.00 ,2.00 ,12.00 ,B
+Burger King,Breakfast Burrito Jr.,370.00 ,23.00 ,8.00 ,150.00 ,930.00 ,27.00 ,3.00 ,2.00 ,15.00 ,B
+Burger King,EGG-NORMOUS BURRITOΡ,780.00 ,42.00 ,15.00 ,355.00 ,"1,960.00 ",68.00 ,3.00 ,4.00 ,32.00 ,B
+Burger King,BK™ Ultimate Breakfast Platter,930.00 ,44.00 ,11.00 ,390.00 ,"2,230.00 ",110.00 ,4.00 ,40.00 ,24.00 ,B
+Burger King,NY Ultimate Platter (Regional menu item),900.00 ,46.00 ,12.00 ,380.00 ,"1,760.00 ",95.00 ,5.00 ,31.00 ,25.00 ,B
+Burger King,Pancake and Sausage platter,610.00 ,31.00 ,9.00 ,80.00 ,"1,010.00 ",72.00 ,1.00 ,30.00 ,12.00 ,B
+Burger King,Hash Browns – small,250.00 ,16.00 ,3.50 ,0.00 ,580.00 ,24.00 ,3.00 ,0.00 ,2.00 ,BS
+Burger King,Hash Browns – medium,500.00 ,33.00 ,7.00 ,0.00 ,"1,140.00 ",48.00 ,7.00 ,0.00 ,4.00 ,BS
+Burger King,Hash Browns – large,670.00 ,44.00 ,9.00 ,0.00 ,"1,530.00 ",65.00 ,9.00 ,0.00 ,5.00 ,BS
+Burger King,French Toast Sticks (3 piece),230.00 ,11.00 ,2.00 ,0.00 ,260.00 ,29.00 ,1.00 ,8.00 ,3.00 ,B
+Burger King,French Toast Sticks (5 piece),380.00 ,18.00 ,3.00 ,0.00 ,430.00 ,49.00 ,2.00 ,13.00 ,5.00 ,B
+Wendy’s,Baconator,950.00 ,62.00 ,24.00 ,205.00 ,"1,630.00 ",40.00 ,2.00 ,8.00 ,59.00 ,
+Wendy’s,Dave’s Double,810.00 ,51.00 ,20.00 ,175.00 ,"1,280.00 ",41.00 ,3.00 ,8.00 ,49.00 ,
+Wendy’s,Dave’s Single,570.00 ,34.00 ,13.00 ,100.00 ,"1,110.00 ",40.00 ,3.00 ,9.00 ,30.00 ,
+Wendy’s,Dave’s Triple,"1,090.00 ",72.00 ,30.00 ,260.00 ,"1,650.00 ",43.00 ,3.00 ,9.00 ,71.00 ,
+Wendy’s,Double Stack,390.00 ,21.00 ,9.00 ,90.00 ,740.00 ,26.00 ,1.00 ,6.00 ,25.00 ,
+Wendy’s,Jr. Bacon Cheeseburger,380.00 ,22.00 ,8.00 ,65.00 ,680.00 ,25.00 ,1.00 ,5.00 ,19.00 ,
+Wendy’s,Jr. Cheeseburger,280.00 ,13.00 ,6.00 ,50.00 ,660.00 ,26.00 ,1.00 ,6.00 ,16.00 ,
+Wendy’s,Jr. Cheeseburger Deluxe,340.00 ,19.00 ,7.00 ,55.00 ,660.00 ,27.00 ,2.00 ,7.00 ,16.00 ,
+Wendy’s,Son of Baconator,630.00 ,39.00 ,15.00 ,125.00 ,"1,280.00 ",37.00 ,2.00 ,7.00 ,34.00 ,
+Wendy’s,3 Piece Chicken Tenders,330.00 ,16.00 ,2.50 ,75.00 ,"1,010.00 ",22.00 ,0.00 ,0.00 ,24.00 ,
+Wendy’s,4 Piece Chicken Nuggets,170.00 ,11.00 ,2.00 ,35.00 ,340.00 ,10.00 ,0.00 ,0.00 ,9.00 ,
+Wendy’s,4 Piece Chicken Tenders,430.00 ,21.00 ,3.50 ,100.00 ,"1,350.00 ",29.00 ,0.00 ,1.00 ,32.00 ,
+Wendy’s,6 Picece Chicken Nuggets,250.00 ,16.00 ,3.50 ,50.00 ,510.00 ,14.00 ,1.00 ,0.00 ,13.00 ,
+Wendy’s,6 Piece Chicken Tenders,650.00 ,32.00 ,5.00 ,150.00 ,"2,020.00 ",43.00 ,0.00 ,1.00 ,48.00 ,
+Wendy’s,10 Piece Chicken Nuggets,420.00 ,27.00 ,5.00 ,80.00 ,850.00 ,24.00 ,1.00 ,0.00 ,22.00 ,
+Wendy’s,Crispy Chicken BLT,420.00 ,23.00 ,6.00 ,50.00 ,950.00 ,35.00 ,2.00 ,5.00 ,20.00 ,
+Wendy’s,Crispy Chicken Sandwich,330.00 ,16.00 ,3.00 ,30.00 ,600.00 ,33.00 ,2.00 ,4.00 ,14.00 ,
+Wendy’s,Grilled Asiago Ranch Club,530.00 ,23.00 ,7.00 ,120.00 ,"1,220.00 ",36.00 ,3.00 ,6.00 ,43.00 ,
+Wendy’s,Grilled Chicken Sandwich,370.00 ,10.00 ,2.00 ,90.00 ,830.00 ,38.00 ,3.00 ,8.00 ,34.00 ,
+Wendy’s,Grilled Chicken Wrap,270.00 ,10.00 ,3.50 ,55.00 ,640.00 ,24.00 ,2.00 ,3.00 ,20.00 ,
+Wendy’s,Homestyle Asiago Ranch Chicken Club,660.00 ,34.00 ,9.00 ,100.00 ,"1,650.00 ",52.00 ,3.00 ,7.00 ,38.00 ,
+Wendy’s,Homestyle Chicken Sandwich,510.00 ,22.00 ,4.00 ,70.00 ,"1,150.00 ",51.00 ,3.00 ,6.00 ,28.00 ,
+Wendy’s,Spicy Asiago Ranch Club,670.00 ,32.00 ,9.00 ,100.00 ,"1,530.00 ",55.00 ,4.00 ,6.00 ,38.00 ,
+Wendy’s,Spicy Chicken Sandwich,510.00 ,20.00 ,3.50 ,65.00 ,"1,030.00 ",54.00 ,4.00 ,6.00 ,29.00 ,
+Wendy’s,Spicy Chicken Wrap,370.00 ,20.00 ,5.00 ,50.00 ,850.00 ,30.00 ,2.00 ,2.00 ,18.00 ,
+Wendy’s,"Apple Pecan Chicken Salad, Full Size",560.00 ,24.00 ,7.00 ,115.00 ,"1,020.00 ",52.00 ,7.00 ,40.00 ,38.00 ,
+Wendy’s,"Apple Pecan Chicken Salad, Half Size",340.00 ,17.00 ,4.00 ,55.00 ,550.00 ,29.00 ,4.00 ,22.00 ,20.00 ,
+Wendy’s,"Berry Burst Chicken Salad, Full Size",460.00 ,17.00 ,4.50 ,105.00 ,"1,090.00 ",41.00 ,7.00 ,29.00 ,41.00 ,
+Wendy’s,"Berry Burst Chicken Salad, Half Size",290.00 ,13.00 ,2.50 ,50.00 ,570.00 ,23.00 ,5.00 ,15.00 ,23.00 ,
+Wendy’s,Caesar Side Salad,240.00 ,15.00 ,4.00 ,30.00 ,500.00 ,19.00 ,3.00 ,4.00 ,8.00 ,S
+Wendy’s,Garden Side Salad,250.00 ,18.00 ,4.00 ,20.00 ,460.00 ,18.00 ,2.00 ,4.00 ,7.00 ,S
+Wendy’s,"Southwest Avocado Chicken Salad, Full Size",600.00 ,41.00 ,11.00 ,135.00 ,"1,220.00 ",18.00 ,7.00 ,7.00 ,42.00 ,
+Wendy’s,"Southwest Avocado Chicken Salad, Half Size",300.00 ,20.00 ,6.00 ,70.00 ,620.00 ,10.00 ,4.00 ,4.00 ,21.00 ,
+Wendy’s,"Spicy Caesar Chicken Salad, Full Size",720.00 ,42.00 ,12.00 ,150.00 ,"1,680.00 ",44.00 ,8.00 ,6.00 ,42.00 ,
+Wendy’s,"Spicy Caesar Chicken Salad, Half Size",410.00 ,23.00 ,6.00 ,75.00 ,930.00 ,30.00 ,5.00 ,4.00 ,23.00 ,
+Wendy’s,"Taco Salad, Full Size",660.00 ,32.00 ,13.00 ,85.00 ,"1,820.00 ",63.00 ,10.00 ,18.00 ,32.00 ,
+Wendy’s,"Taco Salad, Half Size",470.00 ,23.00 ,8.00 ,45.00 ,"1,320.00 ",49.00 ,7.00 ,12.00 ,19.00 ,
+Wendy’s,Baconator Fries,490.00 ,28.00 ,9.00 ,35.00 ,550.00 ,45.00 ,4.00 ,2.00 ,14.00 ,S
+Wendy’s,Bacon Cheese Baked Potato,440.00 ,14.00 ,6.00 ,35.00 ,550.00 ,64.00 ,7.00 ,4.00 ,17.00 ,S
+Wendy’s,Cheese Baked Potato,430.00 ,13.00 ,7.00 ,30.00 ,560.00 ,65.00 ,7.00 ,5.00 ,14.00 ,S
+Wendy’s,Chili & Cheese Baked Potato,460.00 ,11.00 ,5.00 ,35.00 ,710.00 ,71.00 ,8.00 ,7.00 ,19.00 ,S
+Wendy’s,"Chili, Large",250.00 ,7.00 ,3.00 ,50.00 ,"1,170.00 ",23.00 ,5.00 ,9.00 ,23.00 ,S
+Wendy’s,"Chili, Small",170.00 ,5.00 ,2.00 ,35.00 ,780.00 ,16.00 ,4.00 ,6.00 ,15.00 ,S
+Wendy’s,Chili Cheese Fries,500.00 ,25.00 ,8.00 ,35.00 ,710.00 ,53.00 ,6.00 ,4.00 ,16.00 ,S
+Wendy’s,"Natural-Cut Fries, Junior",230.00 ,10.00 ,2.00 ,0.00 ,15.00 ,30.00 ,3.00 ,0.00 ,3.00 ,S
+Wendy’s,"Natural-Cut Fries, Large",530.00 ,24.00 ,4.50 ,0.00 ,520.00 ,70.00 ,6.00 ,0.00 ,7.00 ,S
+Wendy’s,"Natural-Cut Fries, Medium",420.00 ,19.00 ,3.50 ,0.00 ,420.00 ,56.00 ,5.00 ,0.00 ,6.00 ,S
+Wendy’s,"Natural-Cut Fries, Small",320.00 ,15.00 ,2.50 ,0.00 ,320.00 ,43.00 ,4.00 ,0.00 ,5.00 ,S
+Wendy’s,Plain Baked Potato,270.00 ,0.00 ,0.00 ,0.00 ,25.00 ,61.00 ,7.00 ,3.00 ,7.00 ,S
+Wendy’s,Sour Cream and Chive Baked Potato,310.00 ,2.50 ,2.50 ,10.00 ,35.00 ,63.00 ,7.00 ,4.00 ,8.00 ,S
+Wendy’s,Kids 2 Piece Chicken Tenders,200.00 ,10.00 ,1.50 ,45.00 ,620.00 ,13.00 ,0.00 ,0.00 ,15.00 ,
+Wendy’s,Kids 4 Piece Chicken Nuggets,170.00 ,11.00 ,2.00 ,35.00 ,340.00 ,10.00 ,0.00 ,0.00 ,9.00 ,
+Wendy’s,Kids Cheeseburger,280.00 ,13.00 ,6.00 ,50.00 ,540.00 ,25.00 ,1.00 ,5.00 ,15.00 ,
+Wendy’s,Kids Grilled Chicken Wrap,270.00 ,10.00 ,3.50 ,55.00 ,640.00 ,24.00 ,2.00 ,3.00 ,20.00 ,
+Wendy’s,Kids Hamburger,240.00 ,9.00 ,3.50 ,40.00 ,350.00 ,24.00 ,1.00 ,5.00 ,13.00 ,
+Wendy’s,Artisan Egg Sandwich with Bacon,320.00 ,17.00 ,8.00 ,245.00 ,750.00 ,25.00 ,1.00 ,4.00 ,18.00 ,B
+Wendy’s,Artisan Egg Sandwich with Sausage,480.00 ,33.00 ,13.00 ,275.00 ,980.00 ,27.00 ,1.00 ,4.00 ,21.00 ,B
+Wendy’s,Bacon Breakfast Bowl,510.00 ,28.00 ,9.00 ,245.00 ,"1,390.00 ",44.00 ,4.00 ,2.00 ,19.00 ,B
+Wendy’s,Biggie Breakfast Sandwich,610.00 ,40.00 ,15.00 ,290.00 ,"1,400.00 ",37.00 ,2.00 ,7.00 ,27.00 ,B
+Wendy’s,Fresh-Baked Biscuit with Applewood Smoked Bacon,410.00 ,24.00 ,13.00 ,235.00 ,970.00 ,34.00 ,1.00 ,5.00 ,15.00 ,B
+Wendy’s,Fresh Baked Biscuit with Natural Sausage,590.00 ,41.00 ,19.00 ,270.00 ,"1,270.00 ",36.00 ,1.00 ,6.00 ,20.00 ,B
+Wendy’s,Gravy and Sausage Bowl,450.00 ,22.00 ,6.00 ,220.00 ,"1,260.00 ",50.00 ,4.00 ,2.00 ,12.00 ,B
+Wendy’s,Honey Butter Chicken Biscuit,500.00 ,26.00 ,12.00 ,50.00 ,"1,120.00 ",48.00 ,1.00 ,9.00 ,19.00 ,B
+Wendy’s,Sausage and Egg Burrito,360.00 ,20.00 ,8.00 ,210.00 ,920.00 ,29.00 ,1.00 ,2.00 ,17.00 ,B
+Wendy’s,Sausage and Gravy Biscuit,490.00 ,29.00 ,14.00 ,20.00 ,"1,400.00 ",49.00 ,2.00 ,6.00 ,8.00 ,B
+Wendy’s,Sausage Biscuit,480.00 ,33.00 ,15.00 ,50.00 ,"1,010.00 ",35.00 ,1.00 ,5.00 ,12.00 ,B
+Wendy’s,Sausage Breakfast Bowl,640.00 ,42.00 ,14.00 ,270.00 ,"1,540.00 ",46.00 ,4.00 ,3.00 ,21.00 ,B
+Wendy’s,"Seasoned Home-Style Potatoes, Large",360.00 ,13.00 ,2.50 ,0.00 ,"1,080.00 ",57.00 ,6.00 ,1.00 ,5.00 ,B
+Wendy’s,"Seasoned Home-Style Potatoes, Medium",250.00 ,9.00 ,1.50 ,0.00 ,750.00 ,39.00 ,4.00 ,1.00 ,4.00 ,B
+Wendy’s,"Seasoned Home-Style Potatoes, Small",230.00 ,8.00 ,1.50 ,0.00 ,680.00 ,35.00 ,4.00 ,0.00 ,3.00 ,B
+Wendy’s,Two Sausage and Egg Burritos,720.00 ,41.00 ,16.00 ,420.00 ,"1,830.00 ",59.00 ,2.00 ,5.00 ,34.00 ,B
+Wendy’s,Two Sausage Biscuits,960.00 ,65.00 ,31.00 ,95.00 ,"2,020.00 ",70.00 ,3.00 ,10.00 ,23.00 ,B
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,390.00 ,21.00 ,4.00 ,120.00 ,"1,190.00 ",11.00 ,2.00 ,0.00 ,39.00 ,
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,130.00 ,8.00 ,1.50 ,55.00 ,430.00 ,4.00 ,1.00 ,0.00 ,12.00 ,
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh,280.00 ,19.00 ,4.50 ,100.00 ,910.00 ,8.00 ,1.00 ,0.00 ,19.00 ,
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,130.00 ,8.00 ,2.00 ,55.00 ,380.00 ,3.00 ,0.00 ,0.00 ,10.00 ,
+KFC,Chicken Breast,770.00 ,60.00 ,10.00 ,105.00 ,"1,530.00 ",21.00 ,1.00 ,1.00 ,35.00 ,
+KFC,Chicken Drumstick,250.00 ,21.00 ,3.50 ,50.00 ,530.00 ,6.00 ,1.00 ,0.00 ,11.00 ,
+KFC,Chicken Thigh,500.00 ,40.00 ,7.00 ,100.00 ,970.00 ,11.00 ,1.00 ,1.00 ,22.00 ,
+KFC,Chicken Whole Wing,290.00 ,25.00 ,4.00 ,45.00 ,520.00 ,6.00 ,1.00 ,1.00 ,10.00 ,
+KFC,Breast,260.00 ,12.00 ,3.00 ,130.00 ,790.00 ,1.00 ,0.00 ,0.00 ,38.00 ,
+KFC,Drumstick,100.00 ,6.00 ,1.50 ,55.00 ,260.00 ,0.00 ,0.00 ,0.00 ,11.00 ,
+KFC,Thigh,180.00 ,12.00 ,3.50 ,90.00 ,470.00 ,0.00 ,0.00 ,0.00 ,17.00 ,
+KFC,Whole Wing,90.00 ,6.00 ,1.50 ,45.00 ,210.00 ,1.00 ,0.00 ,0.00 ,9.00 ,
+KFC,Breast,540.00 ,40.00 ,7.00 ,100.00 ,"1,390.00 ",14.00 ,2.00 ,1.00 ,31.00 ,
+KFC,Drumstick,190.00 ,14.00 ,2.50 ,40.00 ,510.00 ,6.00 ,1.00 ,0.00 ,9.00 ,
+KFC,Thigh,390.00 ,32.00 ,6.00 ,65.00 ,900.00 ,12.00 ,2.00 ,1.00 ,13.00 ,
+KFC,Whole Wing,180.00 ,15.00 ,2.50 ,35.00 ,450.00 ,5.00 ,1.00 ,0.00 ,8.00 ,
+KFC,EXTRA CRISPY  Chicken Breast,530.00 ,35.00 ,6.00 ,105.00 ,"1,150.00 ",18.00 ,0.00 ,0.00 ,35.00 ,
+KFC,EXTRA CRISPY  Chicken Drumstick,170.00 ,12.00 ,2.00 ,50.00 ,390.00 ,5.00 ,0.00 ,0.00 ,10.00 ,
+KFC,EXTRA CRISPY  Chicken Thigh,330.00 ,23.00 ,4.50 ,100.00 ,700.00 ,9.00 ,0.00 ,0.00 ,22.00 ,
+KFC,EXTRA CRISPY  Chicken Whole Wing,170.00 ,13.00 ,2.00 ,45.00 ,340.00 ,5.00 ,0.00 ,0.00 ,10.00 ,
+KFC,KENTUCKY GRILLED CHICKEN Breast,210.00 ,7.00 ,2.00 ,130.00 ,710.00 ,0.00 ,0.00 ,0.00 ,38.00 ,
+KFC,KENTUCKY GRILLED CHICKEN Drumstick,80.00 ,4.00 ,1.00 ,55.00 ,220.00 ,0.00 ,0.00 ,0.00 ,11.00 ,
+KFC,KENTUCKY GRILLED CHICKEN Thigh,150.00 ,9.00 ,3.00 ,90.00 ,420.00 ,0.00 ,0.00 ,0.00 ,17.00 ,
+KFC,KENTUCKY GRILLED CHICKEN Whole Wing,70.00 ,3.00 ,1.00 ,45.00 ,180.00 ,0.00 ,0.00 ,0.00 ,9.00 ,
+KFC,SPICY CRISPY CHICKEN Breast,350.00 ,20.00 ,3.50 ,100.00 ,"1,100.00 ",11.00 ,1.00 ,0.00 ,30.00 ,
+KFC,SPICY CRISPY CHICKEN Drumstick,130.00 ,8.00 ,1.50 ,40.00 ,420.00 ,5.00 ,1.00 ,0.00 ,9.00 ,
+KFC,SPICY CRISPY CHICKEN Thigh,270.00 ,20.00 ,3.50 ,65.00 ,720.00 ,10.00 ,1.00 ,0.00 ,13.00 ,
+KFC,SPICY CRISPY CHICKEN Whole Wing,120.00 ,8.00 ,1.50 ,35.00 ,350.00 ,5.00 ,0.00 ,0.00 ,7.00 ,
+KFC,EXTRA CRISPY  Tender (each),260.00 ,14.00 ,2.00 ,50.00 ,610.00 ,15.00 ,<1,0.00 ,19.00 ,
+KFC,EXTRA CRISPY  Tender (each),220.00 ,16.00 ,2.50 ,25.00 ,460.00 ,9.00 ,<1,0.00 ,10.00 ,
+KFC,KENTUCKY FRIED WINGS Buffalo,100.00 ,7.00 ,1.50 ,20.00 ,310.00 ,3.00 ,0.00 ,0.00 ,5.00 ,
+KFC,KENTUCKY FRIED WINGS Honey BBQ,100.00 ,6.00 ,1.00 ,20.00 ,210.00 ,8.00 ,0.00 ,4.00 ,5.00 ,
+KFC,KENTUCKY FRIED WINGS Nashville Hot,130.00 ,11.00 ,2.00 ,20.00 ,230.00 ,4.00 ,0.00 ,0.00 ,5.00 ,
+KFC,KENTUCKY FRIED WINGS Unsauced,80.00 ,6.00 ,1.00 ,20.00 ,150.00 ,3.00 ,0.00 ,0.00 ,5.00 ,
+KFC,POPCORN NUGGETS Kids,290.00 ,19.00 ,2.50 ,30.00 ,870.00 ,19.00 ,1.00 ,0.00 ,13.00 ,
+KFC,POPCORN NUGGETS Large,620.00 ,39.00 ,5.00 ,65.00 ,"1,820.00 ",39.00 ,2.00 ,0.00 ,27.00 ,
+KFC,BBQ Baked Beans,190.00 ,1.00 ,0.00 ,0.00 ,650.00 ,34.00 ,7.00 ,15.00 ,11.00 ,S
+KFC,Biscuit,180.00 ,8.00 ,4.50 ,0.00 ,520.00 ,22.00 ,1.00 ,1.00 ,4.00 ,S
+KFC,Coleslaw,170.00 ,12.00 ,2.00 ,<5,180.00 ,14.00 ,4.00 ,10.00 ,1.00 ,S
+KFC,Corn on the Cob,70.00 ,0.50 ,0.00 ,0.00 ,0.00 ,17.00 ,2.00 ,3.00 ,2.00 ,S
+KFC,Green Beans,25.00 ,0.00 ,0.00 ,0.00 ,300.00 ,5.00 ,3.00 ,1.00 ,1.00 ,S
+KFC,KFC® Cornbread Muffin,210.00 ,9.00 ,1.50 ,35.00 ,240.00 ,28.00 ,<1,11.00 ,3.00 ,S
+KFC,Macaroni & Cheese,140.00 ,6.00 ,1.50 ,<5,590.00 ,17.00 ,1.00 ,2.00 ,5.00 ,S
+KFC,Macaroni Salad,140.00 ,8.00 ,1.00 ,15.00 ,290.00 ,14.00 ,0.00 ,9.00 ,1.00 ,S
+KFC,Mashed Potatoes,110.00 ,3.50 ,0.50 ,0.00 ,330.00 ,17.00 ,1.00 ,0.00 ,2.00 ,S
+KFC,Mashed Potatoes With Gravy,130.00 ,4.50 ,1.00 ,0.00 ,520.00 ,20.00 ,1.00 ,0.00 ,3.00 ,S
+KFC,Potato Salad,340.00 ,28.00 ,4.50 ,25.00 ,290.00 ,19.00 ,2.00 ,3.00 ,2.00 ,S
+KFC,Secret Recipe Fries,320.00 ,15.00 ,2.00 ,0.00 ,"1,100.00 ",41.00 ,3.00 ,0.00 ,5.00 ,S
+KFC,Sweet Kernel Corn,70.00 ,0.50 ,0.00 ,0.00 ,0.00 ,16.00 ,2.00 ,2.00 ,2.00 ,S
+KFC,BBQ Baked Beans (Family),830.00 ,5.00 ,1.00 ,0.00 ,"2,810.00 ",148.00 ,31.00 ,63.00 ,47.00 ,S
+KFC,Coleslaw (Family),640.00 ,46.00 ,7.00 ,15.00 ,670.00 ,54.00 ,14.00 ,37.00 ,4.00 ,S
+KFC,Corn on the Cob (Family),280.00 ,2.00 ,0.00 ,0.00 ,15.00 ,67.00 ,8.00 ,11.00 ,9.00 ,S
+KFC,Green Beans (Family),80.00 ,0.00 ,0.00 ,0.00 ,930.00 ,15.00 ,9.00 ,3.00 ,4.00 ,S
+KFC,Macaroni & Cheese (Family),540.00 ,23.00 ,6.00 ,10.00 ,"2,220.00 ",66.00 ,5.00 ,8.00 ,18.00 ,S
+KFC,Macaroni Salad (Family),480.00 ,28.00 ,3.50 ,55.00 ,990.00 ,50.00 ,0.00 ,30.00 ,3.00 ,S
+KFC,Mashed Potatoes (Family),460.00 ,15.00 ,3.00 ,0.00 ,"1,410.00 ",72.00 ,6.00 ,0.00 ,9.00 ,S
+KFC,Mashed Potatoes With Gravy (Family),590.00 ,21.00 ,5.00 ,0.00 ,"2,590.00 ",88.00 ,6.00 ,1.00 ,12.00 ,S
+KFC,Potato Salad (Family),"1,200.00 ",98.00 ,16.00 ,80.00 ,"1,010.00 ",65.00 ,8.00 ,12.00 ,8.00 ,S
+KFC,Secret Recipe Fries (Family),840.00 ,40.00 ,5.00 ,0.00 ,"2,890.00 ",108.00 ,9.00 ,0.00 ,13.00 ,S
+KFC,Sweet Kernel Corn (Family),280.00 ,2.50 ,0.00 ,0.00 ,10.00 ,67.00 ,7.00 ,8.00 ,10.00 ,S
+KFC,Chicken Littles,300.00 ,15.00 ,2.50 ,30.00 ,620.00 ,27.00 ,1.00 ,3.00 ,14.00 ,
+KFC,Chicken Littles – Buffalo,310.00 ,17.00 ,2.50 ,30.00 ,790.00 ,27.00 ,1.00 ,3.00 ,14.00 ,
+KFC,Chicken Littles – Honey BBQ,320.00 ,15.00 ,2.50 ,30.00 ,680.00 ,31.00 ,1.00 ,7.00 ,14.00 ,
+KFC,Chicken Littles – Nashville Hot,340.00 ,19.00 ,3.00 ,30.00 ,680.00 ,27.00 ,1.00 ,3.00 ,14.00 ,
+KFC,Classic Chicken Sandwich,650.00 ,35.00 ,4.50 ,90.00 ,"1,260.00 ",49.00 ,1.00 ,6.00 ,34.00 ,
+KFC,Crispy Colonel’s Sandwich,470.00 ,24.00 ,3.50 ,60.00 ,"1,170.00 ",39.00 ,<1,4.00 ,24.00 ,
+KFC,Crispy Colonel’s Sandwich – Buffalo,500.00 ,27.00 ,4.00 ,60.00 ,"1,500.00 ",39.00 ,<1,4.00 ,24.00 ,
+KFC,Crispy Colonel’s Sandwich – Honey BBQ,510.00 ,25.00 ,3.50 ,60.00 ,"1,290.00 ",48.00 ,<1,12.00 ,24.00 ,
+KFC,Crispy Colonel’s Sandwich – Nashville Hot,540.00 ,32.00 ,4.50 ,60.00 ,"1,290.00 ",40.00 ,<1,5.00 ,24.00 ,
+KFC,Crispy Twister®,630.00 ,34.00 ,7.00 ,70.00 ,"1,260.00 ",53.00 ,4.00 ,3.00 ,28.00 ,
+KFC,Honey BBQ Sandwich,350.00 ,3.50 ,0.50 ,55.00 ,"1,350.00 ",55.00 ,2.00 ,22.00 ,24.00 ,
+KFC,Spicy Chicken Sandwich,620.00 ,33.00 ,4.00 ,85.00 ,"2,140.00 ",49.00 ,1.00 ,6.00 ,34.00 ,
+KFC,Chicken Pot Pie,720.00 ,41.00 ,25.00 ,80.00 ,"1,750.00 ",60.00 ,7.00 ,5.00 ,26.00 ,
+KFC,KFC® Famous Bowl,740.00 ,35.00 ,6.00 ,45.00 ,"2,350.00 ",81.00 ,6.00 ,2.00 ,26.00 ,
+KFC,KFC® Famous Bowl – Snack Size,270.00 ,14.00 ,3.50 ,20.00 ,850.00 ,27.00 ,2.00 ,1.00 ,11.00 ,
+KFC,Caesar Side Salad,40.00 ,2.00 ,1.00 ,5.00 ,90.00 ,2.00 ,1.00 ,1.00 ,3.00 ,S
+KFC,House Side Salad,15.00 ,0.00 ,0.00 ,0.00 ,10.00 ,3.00 ,2.00 ,2.00 ,1.00 ,S
+KFC,Country Fried Steak without Peppered White Gravy,360.00 ,24.00 ,7.00 ,35.00 ,750.00 ,22.00 ,2.00 ,0.00 ,13.00 ,
+KFC,Country Fried Steak with Peppered White Gravy,390.00 ,26.00 ,7.00 ,35.00 ,910.00 ,26.00 ,2.00 ,0.00 ,13.00 ,
+KFC,KFC® Gizzards,300.00 ,16.00 ,2.00 ,210.00 ,770.00 ,18.00 ,<1,0.00 ,20.00 ,
+KFC,KFC® Livers,230.00 ,13.00 ,2.50 ,285.00 ,750.00 ,12.00 ,0.00 ,0.00 ,17.00 ,
+Taco Bell,Bacon Club Chalupa,440.00 ,27.00 ,5.00 ,50.00 ,840.00 ,31.00 ,2.00 ,3.00 ,20.00 ,
+Taco Bell,Loaded Nacho Taco,250.00 ,12.00 ,4.50 ,25.00 ,610.00 ,24.00 ,3.00 ,2.00 ,10.00 ,
+Taco Bell,Nacho Fries,320.00 ,18.00 ,1.50 ,<5,630.00 ,35.00 ,4.00 ,2.00 ,4.00 ,S
+Taco Bell,Nacho Fries BellGrande®,710.00 ,40.00 ,6.00 ,30.00 ,"1,440.00 ",73.00 ,10.00 ,4.00 ,13.00 ,
+Taco Bell,Black Bean Chalupa – Online Exclusive,330.00 ,15.00 ,3.00 ,10.00 ,430.00 ,39.00 ,5.00 ,3.00 ,10.00 ,
+Taco Bell,Black Bean Quesarito – Online Exclusive,630.00 ,29.00 ,10.00 ,35.00 ,"1,260.00 ",73.00 ,7.00 ,5.00 ,19.00 ,
+Taco Bell,Quesarito – Online Exclusive,650.00 ,33.00 ,12.00 ,55.00 ,"1,390.00 ",67.00 ,6.00 ,5.00 ,22.00 ,
+Taco Bell,Chalupa Supreme® – Beef,350.00 ,18.00 ,5.00 ,25.00 ,560.00 ,33.00 ,4.00 ,3.00 ,13.00 ,
+Taco Bell,Chalupa Supreme® – Chicken,330.00 ,15.00 ,3.50 ,35.00 ,560.00 ,31.00 ,2.00 ,3.00 ,16.00 ,
+Taco Bell,Chalupa Supreme® – Steak,330.00 ,16.00 ,4.00 ,30.00 ,530.00 ,32.00 ,2.00 ,3.00 ,15.00 ,
+Taco Bell,Cheesy Gordita Crunch,500.00 ,28.00 ,10.00 ,55.00 ,850.00 ,41.00 ,5.00 ,4.00 ,20.00 ,
+Taco Bell,Crunchy Taco,170.00 ,9.00 ,3.50 ,25.00 ,310.00 ,13.00 ,3.00 ,<1,8.00 ,
+Taco Bell,Crunchy Taco Supreme®,190.00 ,11.00 ,4.50 ,25.00 ,340.00 ,15.00 ,3.00 ,2.00 ,8.00 ,
+Taco Bell,Loaded Nacho Taco (New),250.00 ,12.00 ,4.50 ,25.00 ,610.00 ,24.00 ,3.00 ,2.00 ,10.00 ,
+Taco Bell,Nacho Cheese Doritos® Locos Taco,170.00 ,9.00 ,3.50 ,25.00 ,360.00 ,13.00 ,3.00 ,<1,8.00 ,
+Taco Bell,Nacho Cheese Doritos® Locos Taco Supreme®,190.00 ,11.00 ,4.50 ,30.00 ,380.00 ,15.00 ,3.00 ,2.00 ,8.00 ,
+Taco Bell,Soft Taco – Beef,180.00 ,9.00 ,4.00 ,25.00 ,500.00 ,17.00 ,3.00 ,1.00 ,9.00 ,
+Taco Bell,Soft Taco – Chicken,160.00 ,5.00 ,2.50 ,30.00 ,500.00 ,16.00 ,1.00 ,1.00 ,12.00 ,
+Taco Bell,Soft Taco – Beef,210.00 ,10.00 ,5.00 ,25.00 ,520.00 ,20.00 ,3.00 ,2.00 ,10.00 ,
+Taco Bell,Soft Taco – Chicken,180.00 ,7.00 ,3.50 ,35.00 ,520.00 ,18.00 ,2.00 ,2.00 ,13.00 ,
+Taco Bell,Bean Burrito (V),350.00 ,9.00 ,3.50 ,5.00 ,"1,000.00 ",54.00 ,11.00 ,3.00 ,13.00 ,
+Taco Bell,Beefy 5-Layer Burrito,490.00 ,18.00 ,7.00 ,30.00 ,"1,250.00 ",63.00 ,9.00 ,5.00 ,18.00 ,
+Taco Bell,Burrito Supreme® – Beef,390.00 ,14.00 ,6.00 ,25.00 ,"1,110.00 ",51.00 ,9.00 ,4.00 ,16.00 ,
+Taco Bell,Burrito Supreme® – Chicken,370.00 ,11.00 ,4.50 ,35.00 ,"1,110.00 ",49.00 ,8.00 ,4.00 ,19.00 ,
+Taco Bell,Burrito Supreme® – Steak,370.00 ,12.00 ,5.00 ,30.00 ,"1,090.00 ",49.00 ,7.00 ,4.00 ,18.00 ,
+Taco Bell,Chili Cheese Burrito (regional),370.00 ,17.00 ,8.00 ,35.00 ,970.00 ,40.00 ,4.00 ,2.00 ,16.00 ,
+Taco Bell,Quesarito – Beef,650.00 ,33.00 ,12.00 ,55.00 ,"1,390.00 ",67.00 ,6.00 ,5.00 ,22.00 ,
+Taco Bell,Quesarito – Chicken,620.00 ,29.00 ,11.00 ,65.00 ,"1,390.00 ",66.00 ,4.00 ,4.00 ,25.00 ,
+Taco Bell,Quesarito – Steak,630.00 ,30.00 ,11.00 ,60.00 ,"1,370.00 ",66.00 ,4.00 ,4.00 ,24.00 ,
+Taco Bell,Chips and Nacho Cheese Sauce (V),220.00 ,13.00 ,1.50 ,<5,250.00 ,24.00 ,2.00 ,2.00 ,2.00 ,S
+Taco Bell,Nacho Fries (V) (New),320.00 ,18.00 ,1.50 ,<5,630.00 ,35.00 ,4.00 ,2.00 ,4.00 ,S
+Taco Bell,Nacho Fries BellGrande® (New),710.00 ,40.00 ,6.00 ,30.00 ,"1,440.00 ",73.00 ,10.00 ,4.00 ,13.00 ,
+Taco Bell,Nachos BellGrande® – Beef,740.00 ,38.00 ,7.00 ,25.00 ,"1,050.00 ",82.00 ,15.00 ,5.00 ,16.00 ,
+Taco Bell,Nachos BellGrande® – Chicken,720.00 ,35.00 ,6.00 ,35.00 ,"1,050.00 ",81.00 ,14.00 ,5.00 ,20.00 ,
+Taco Bell,Nachos BellGrande® – Steak,720.00 ,36.00 ,6.00 ,30.00 ,"1,030.00 ",81.00 ,14.00 ,5.00 ,19.00 ,
+Taco Bell,Beef Quesarito,650.00 ,33.00 ,12.00 ,55.00 ,"1,390.00 ",67.00 ,6.00 ,5.00 ,22.00 ,
+Taco Bell,Black Bean Quesarito (V),630.00 ,29.00 ,10.00 ,35.00 ,"1,260.00 ",73.00 ,7.00 ,5.00 ,19.00 ,
+Taco Bell,Quesadilla – Cheese (V),470.00 ,25.00 ,12.00 ,50.00 ,990.00 ,37.00 ,4.00 ,2.00 ,19.00 ,
+Taco Bell,Quesadilla – Chicken,510.00 ,26.00 ,12.00 ,75.00 ,"1,250.00 ",38.00 ,4.00 ,2.00 ,27.00 ,
+Taco Bell,Quesadilla – Steak,520.00 ,27.00 ,12.00 ,70.00 ,"1,230.00 ",38.00 ,4.00 ,2.00 ,27.00 ,
+Taco Bell,Bacon Club Chalupa – Specialties,440.00 ,27.00 ,5.00 ,50.00 ,840.00 ,31.00 ,2.00 ,3.00 ,20.00 ,
+Taco Bell,Black Bean Chalupa – Specialties,330.00 ,15.00 ,3.00 ,10.00 ,430.00 ,39.00 ,5.00 ,3.00 ,10.00 ,
+Taco Bell,Black Bean Crunchwrap Supreme – Specialties,510.00 ,17.00 ,4.50 ,5.00 ,"1,080.00 ",77.00 ,8.00 ,6.00 ,13.00 ,
+Taco Bell,Black Bean Quesarito – Specialties,630.00 ,29.00 ,10.00 ,35.00 ,"1,260.00 ",73.00 ,7.00 ,5.00 ,19.00 ,
+Taco Bell,Chalupa Supreme® – Specialties,350.00 ,18.00 ,5.00 ,25.00 ,560.00 ,33.00 ,4.00 ,3.00 ,13.00 ,
+Taco Bell,Cheesy Gordita Crunch – Specialties,500.00 ,28.00 ,10.00 ,55.00 ,850.00 ,41.00 ,5.00 ,4.00 ,20.00 ,
+Taco Bell,Cheesy Roll Up – Specialties,180.00 ,9.00 ,5.00 ,20.00 ,430.00 ,15.00 ,2.00 ,<1,9.00 ,
+Taco Bell,Crunchwrap Supreme® – Specialties,530.00 ,21.00 ,6.00 ,25.00 ,"1,200.00 ",71.00 ,6.00 ,6.00 ,16.00 ,
+Taco Bell,Crunchy Taco – Specialties,170.00 ,9.00 ,3.50 ,25.00 ,310.00 ,13.00 ,3.00 ,<1,8.00 ,
+Taco Bell,Nacho Cheese Doritos® Locos Taco – Specialties,170.00 ,9.00 ,3.50 ,25.00 ,360.00 ,13.00 ,3.00 ,<1,8.00 ,
+Taco Bell,Nachos BellGrande® – Specialties,740.00 ,38.00 ,7.00 ,25.00 ,"1,050.00 ",82.00 ,15.00 ,5.00 ,16.00 ,
+Taco Bell,Power Menu Bowl – Specialties,470.00 ,19.00 ,6.00 ,70.00 ,"1,200.00 ",50.00 ,7.00 ,2.00 ,26.00 ,
+Taco Bell,Quesadilla – Specialties,510.00 ,26.00 ,12.00 ,75.00 ,"1,250.00 ",38.00 ,4.00 ,2.00 ,27.00 ,
+Taco Bell,Quesarito – Specialties,650.00 ,33.00 ,12.00 ,55.00 ,"1,390.00 ",67.00 ,6.00 ,5.00 ,22.00 ,
+Taco Bell,Soft Taco – Specialties,180.00 ,9.00 ,4.00 ,25.00 ,500.00 ,17.00 ,3.00 ,1.00 ,9.00 ,
+Taco Bell,Soft Taco Supreme – Specialties,210.00 ,10.00 ,5.00 ,25.00 ,520.00 ,20.00 ,3.00 ,2.00 ,10.00 ,
+Taco Bell,Veggie Power Menu Bowl – Specialties,430.00 ,17.00 ,5.00 ,20.00 ,810.00 ,57.00 ,10.00 ,2.00 ,12.00 ,
+Taco Bell,Black Beans & Rice (V),170.00 ,3.50 ,0.00 ,0.00 ,320.00 ,31.00 ,4.00 ,0.00 ,4.00 ,S
+Taco Bell,Black Beans (V),50.00 ,1.00 ,0.00 ,0.00 ,135.00 ,8.00 ,3.00 ,0.00 ,2.00 ,S
+Taco Bell,Beef Burrito – Value Menu,430.00 ,19.00 ,5.00 ,20.00 ,970.00 ,51.00 ,4.00 ,3.00 ,12.00 ,
+Taco Bell,Cheesy Bean & Rice Burrito – Value Menu,420.00 ,16.00 ,4.00 ,<5,880.00 ,56.00 ,7.00 ,3.00 ,10.00 ,
+Taco Bell,Cheesy Roll Up – Value Menu,180.00 ,9.00 ,5.00 ,20.00 ,430.00 ,15.00 ,2.00 ,<1,9.00 ,
+Taco Bell,Chicken Chipotle Melt – Value Menu,190.00 ,9.00 ,3.00 ,35.00 ,530.00 ,15.00 ,1.00 ,<1,12.00 ,
+Taco Bell,Loaded Nacho Taco – Value Menu,250.00 ,12.00 ,4.50 ,25.00 ,610.00 ,24.00 ,3.00 ,2.00 ,10.00 ,
+Taco Bell,Bean Burrito,350.00 ,9.00 ,3.50 ,5.00 ,"1,000.00 ",54.00 ,11.00 ,3.00 ,13.00 ,
+Taco Bell,Black Bean Chalupa,330.00 ,15.00 ,3.00 ,10.00 ,430.00 ,39.00 ,5.00 ,3.00 ,10.00 ,
+Taco Bell,Black Bean Crunchwrap Supreme,510.00 ,17.00 ,4.50 ,5.00 ,"1,080.00 ",77.00 ,8.00 ,6.00 ,13.00 ,
+Taco Bell,Black Bean Quesarito,630.00 ,29.00 ,10.00 ,35.00 ,"1,260.00 ",73.00 ,7.00 ,5.00 ,19.00 ,
+Taco Bell,Black Beans & Rice,170.00 ,3.50 ,0.00 ,0.00 ,320.00 ,31.00 ,4.00 ,0.00 ,4.00 ,S
+Taco Bell,Cheese Quesadilla,470.00 ,25.00 ,12.00 ,50.00 ,990.00 ,37.00 ,4.00 ,2.00 ,19.00 ,
+Taco Bell,Cheesy Bean & Rice Burrito,420.00 ,16.00 ,4.00 ,<5,880.00 ,56.00 ,7.00 ,3.00 ,10.00 ,
+Taco Bell,Cheesy Roll Up,180.00 ,9.00 ,5.00 ,20.00 ,430.00 ,15.00 ,2.00 ,<1,9.00 ,
+Taco Bell,Chips and Nacho Cheese Sauce,220.00 ,13.00 ,1.50 ,<5,250.00 ,24.00 ,2.00 ,2.00 ,2.00 ,S
+Taco Bell,Hash Brown,160.00 ,12.00 ,1.00 ,0.00 ,270.00 ,13.00 ,2.00 ,0.00 ,1.00 ,BS
+Taco Bell,Power Menu Bowl – Veggie,430.00 ,17.00 ,5.00 ,20.00 ,810.00 ,57.00 ,10.00 ,2.00 ,12.00 ,
+Taco Bell,Power Menu Bowl – Chicken,470.00 ,19.00 ,6.00 ,70.00 ,"1,200.00 ",50.00 ,7.00 ,2.00 ,26.00 ,
+Taco Bell,Power Menu Bowl – Steak,480.00 ,20.00 ,7.00 ,60.00 ,"1,150.00 ",51.00 ,7.00 ,2.00 ,25.00 ,
+Taco Bell,Power Menu Bowl – Veggie (V),430.00 ,17.00 ,5.00 ,20.00 ,810.00 ,57.00 ,10.00 ,2.00 ,12.00 ,
+Taco Bell,Breakfast Crunchwrap – Bacon,670.00 ,41.00 ,12.00 ,140.00 ,"1,270.00 ",50.00 ,4.00 ,3.00 ,21.00 ,B
+Taco Bell,Breakfast Crunchwrap – Sausage,720.00 ,47.00 ,15.00 ,145.00 ,"1,210.00 ",51.00 ,4.00 ,3.00 ,21.00 ,B
+Taco Bell,Breakfast Crunchwrap – Steak,660.00 ,38.00 ,12.00 ,145.00 ,"1,300.00 ",51.00 ,4.00 ,3.00 ,24.00 ,B
+Taco Bell,Cheesy Toasted Breakfast Burrito – Bacon,350.00 ,16.00 ,4.50 ,115.00 ,870.00 ,36.00 ,2.00 ,3.00 ,13.00 ,B
+Taco Bell,Cheesy Toasted Breakfast Burrito – Fiesta Potato (V),340.00 ,14.00 ,3.50 ,100.00 ,750.00 ,43.00 ,3.00 ,3.00 ,10.00 ,B
+Taco Bell,Cheesy Toasted Breakfast Burrito – Sausage,340.00 ,17.00 ,5.00 ,110.00 ,730.00 ,36.00 ,2.00 ,3.00 ,11.00 ,B
+Taco Bell,Grande Toasted Breakfast Burrito – Bacon,560.00 ,30.00 ,10.00 ,230.00 ,"1,290.00 ",49.00 ,4.00 ,3.00 ,24.00 ,B
+Taco Bell,Grande Toasted Breakfast Burrito – Sausage,560.00 ,31.00 ,10.00 ,230.00 ,"1,150.00 ",49.00 ,4.00 ,3.00 ,22.00 ,B
+Taco Bell,Grande Toasted Breakfast Burrito – Steak,560.00 ,28.00 ,9.00 ,240.00 ,"1,310.00 ",50.00 ,4.00 ,3.00 ,27.00 ,B
+Taco Bell,Hash Brown (V),160.00 ,12.00 ,1.00 ,0.00 ,270.00 ,13.00 ,2.00 ,0.00 ,1.00 ,BS
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Bacon,570.00 ,33.00 ,10.00 ,135.00 ,"1,270.00 ",49.00 ,4.00 ,2.00 ,21.00 ,B
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Sausage,570.00 ,34.00 ,10.00 ,130.00 ,"1,130.00 ",49.00 ,4.00 ,2.00 ,18.00 ,B
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Steak,570.00 ,30.00 ,9.00 ,140.00 ,"1,290.00 ",50.00 ,4.00 ,2.00 ,24.00 ,B
+Pizza Hut,Detroit Double Cheesy Pizza Slice,280.00 ,12.00 ,6.00 ,30.00 ,560.00 ,31.00 ,2.00 ,2.00 ,13.00 ,
+Pizza Hut,Detroit Double Pepperoni Pizza Slice,330.00 ,17.00 ,7.00 ,40.00 ,720.00 ,30.00 ,2.00 ,2.00 ,14.00 ,
+Pizza Hut,Detroit Meaty Pizza Slice,320.00 ,16.00 ,6.00 ,35.00 ,640.00 ,31.00 ,2.00 ,2.00 ,14.00 ,
+Pizza Hut,Detroit Supremo Pizza Slice,290.00 ,13.00 ,6.00 ,30.00 ,570.00 ,31.00 ,2.00 ,2.00 ,13.00 ,
+Pizza Hut,Pan Pizza Slices Backyard BBQ Chicken Personal Pan,180.00 ,6.00 ,2.00 ,15.00 ,370.00 ,25.00 ,1.00 ,8.00 ,8.00 ,
+Pizza Hut,Pan Pizza Slices Backyard BBQ Chicken Medium,270.00 ,10.00 ,4.00 ,25.00 ,450.00 ,33.00 ,2.00 ,6.00 ,11.00 ,
+Pizza Hut,Pan Pizza Slices Backyard BBQ Chicken Large,380.00 ,16.00 ,6.00 ,35.00 ,650.00 ,43.00 ,2.00 ,7.00 ,16.00 ,
+Pizza Hut,Pan Pizza Slices Beyond Meat® Pepperoni Medium,240.00 ,10.00 ,4.50 ,15.00 ,470.00 ,29.00 ,2.00 ,1.00 ,10.00 ,
+Pizza Hut,Pan Pizza Slices Beyond Meat® Pepperoni Large,350.00 ,16.00 ,6.00 ,25.00 ,680.00 ,38.00 ,3.00 ,2.00 ,14.00 ,
+Pizza Hut,Pan Pizza Slices Buffalo Chicken Personal Pan,160.00 ,5.00 ,2.00 ,15.00 ,570.00 ,22.00 ,1.00 ,2.00 ,7.00 ,
+Pizza Hut,Pan Pizza Slices Buffalo Chicken Medium,240.00 ,9.00 ,3.50 ,20.00 ,680.00 ,31.00 ,2.00 ,2.00 ,11.00 ,
+Pizza Hut,Pan Pizza Slices Buffalo Chicken Large,350.00 ,14.00 ,5.00 ,30.00 ,850.00 ,40.00 ,2.00 ,2.00 ,15.00 ,
+Pizza Hut,Pan Pizza Slices Cheese Personal Pan,150.00 ,6.00 ,2.50 ,15.00 ,310.00 ,17.00 ,1.00 ,2.00 ,7.00 ,
+Pizza Hut,Pan Pizza Slices Cheese Medium,250.00 ,10.00 ,4.50 ,25.00 ,450.00 ,28.00 ,2.00 ,1.00 ,11.00 ,
+Pizza Hut,Pan Pizza Slices Cheese Large,360.00 ,17.00 ,7.00 ,35.00 ,660.00 ,37.00 ,2.00 ,2.00 ,16.00 ,
+Pizza Hut,Pan Pizza Slices Chicken Bacon Parmesan Personal Pan,180.00 ,8.00 ,3.00 ,20.00 ,350.00 ,17.00 ,1.00 ,2.00 ,9.00 ,
+Pizza Hut,Pan Pizza Slices Chicken Bacon Parmesan Medium,270.00 ,13.00 ,4.50 ,30.00 ,470.00 ,27.00 ,2.00 ,1.00 ,12.00 ,
+Pizza Hut,Pan Pizza Slices Chicken Bacon Parmesan Large,390.00 ,20.00 ,7.00 ,40.00 ,680.00 ,35.00 ,2.00 ,2.00 ,18.00 ,
+Pizza Hut,Pan Pizza Slices Hawaiian Chicken Personal Pan,150.00 ,5.00 ,2.00 ,15.00 ,330.00 ,18.00 ,1.00 ,3.00 ,8.00 ,
+Pizza Hut,Pan Pizza Slices Hawaiian Chicken Medium,240.00 ,9.00 ,3.50 ,20.00 ,480.00 ,29.00 ,2.00 ,2.00 ,12.00 ,
+Pizza Hut,Pan Pizza Slices Hawaiian Chicken Large,350.00 ,15.00 ,5.00 ,30.00 ,690.00 ,38.00 ,2.00 ,3.00 ,17.00 ,
+Pizza Hut,Pan Pizza Slices Meat Lover’s® Personal Pan,210.00 ,12.00 ,4.50 ,25.00 ,460.00 ,18.00 ,1.00 ,2.00 ,9.00 ,
+Pizza Hut,Pan Pizza Slices Meat Lover’s® Medium,320.00 ,17.00 ,6.00 ,35.00 ,640.00 ,28.00 ,2.00 ,1.00 ,13.00 ,
+Pizza Hut,Pan Pizza Slices Meat Lover’s® Large,470.00 ,27.00 ,10.00 ,50.00 ,940.00 ,37.00 ,2.00 ,2.00 ,19.00 ,
+Pizza Hut,Pan Pizza Slices Pepperoni Personal Pan,150.00 ,7.00 ,2.50 ,15.00 ,310.00 ,17.00 ,1.00 ,2.00 ,6.00 ,
+Pizza Hut,Pan Pizza Slices Pepperoni Medium,250.00 ,11.00 ,4.50 ,25.00 ,470.00 ,28.00 ,2.00 ,1.00 ,10.00 ,
+Pizza Hut,Pan Pizza Slices Pepperoni Large,370.00 ,18.00 ,6.00 ,35.00 ,680.00 ,36.00 ,2.00 ,2.00 ,15.00 ,
+Pizza Hut,Pan Pizza Slices Pepperoni Lover’s® Personal Pan,180.00 ,9.00 ,3.50 ,20.00 ,370.00 ,17.00 ,1.00 ,2.00 ,8.00 ,
+Pizza Hut,Pan Pizza Slices Pepperoni Lover’s® Medium,300.00 ,15.00 ,6.00 ,35.00 ,580.00 ,28.00 ,2.00 ,1.00 ,13.00 ,
+Pizza Hut,Pan Pizza Slices Pepperoni Lover’s® Large,440.00 ,24.00 ,9.00 ,50.00 ,850.00 ,37.00 ,3.00 ,2.00 ,19.00 ,
+Pizza Hut,Pan Pizza Slices Supreme Personal Pan,170.00 ,8.00 ,3.00 ,15.00 ,360.00 ,18.00 ,1.00 ,2.00 ,7.00 ,
+Pizza Hut,Pan Pizza Slices Supreme Medium,270.00 ,13.00 ,5.00 ,25.00 ,500.00 ,29.00 ,2.00 ,2.00 ,11.00 ,
+Pizza Hut,Pan Pizza Slices Supreme Large,390.00 ,20.00 ,7.00 ,40.00 ,740.00 ,37.00 ,2.00 ,2.00 ,16.00 ,
+Pizza Hut,Pan Pizza Slices Ultimate Cheese Lover’s® Personal Pan,170.00 ,8.00 ,3.50 ,15.00 ,330.00 ,17.00 ,1.00 ,2.00 ,8.00 ,
+Pizza Hut,Pan Pizza Slices Ultimate Cheese Lover’s® Medium,270.00 ,13.00 ,5.00 ,25.00 ,470.00 ,27.00 ,2.00 ,1.00 ,12.00 ,
+Pizza Hut,Pan Pizza Slices Ultimate Cheese Lover’s® Large,390.00 ,20.00 ,8.00 ,40.00 ,670.00 ,36.00 ,2.00 ,2.00 ,17.00 ,
+Pizza Hut,Pan Pizza Slices Veggie Lover’s® Personal Pan,140.00 ,5.00 ,2.00 ,10.00 ,290.00 ,18.00 ,1.00 ,2.00 ,6.00 ,
+Pizza Hut,Pan Pizza Slices Veggie Lover’s® Medium,230.00 ,9.00 ,3.50 ,15.00 ,420.00 ,29.00 ,2.00 ,2.00 ,9.00 ,
+Pizza Hut,Pan Pizza Slices Veggie Lover’s® Large,330.00 ,15.00 ,5.00 ,25.00 ,620.00 ,38.00 ,3.00 ,3.00 ,14.00 ,
+Pizza Hut,Hand Tossed Slices Backyard BBQ Chicken Small,140.00 ,4.00 ,2.00 ,15.00 ,250.00 ,20.00 ,1.00 ,4.00 ,6.00 ,
+Pizza Hut,Hand Tossed Slices Backyard BBQ Chicken Medium,220.00 ,7.00 ,3.00 ,20.00 ,390.00 ,31.00 ,2.00 ,6.00 ,10.00 ,
+Pizza Hut,Hand Tossed Slices Backyard BBQ Chicken Large,300.00 ,10.00 ,4.50 ,30.00 ,530.00 ,40.00 ,2.00 ,7.00 ,14.00 ,
+Pizza Hut,Hand Tossed Slices Beyond Meat® Pepperoni Medium,200.00 ,7.00 ,3.50 ,15.00 ,410.00 ,26.00 ,2.00 ,1.00 ,9.00 ,
+Pizza Hut,Hand Tossed Slices Beyond Meat® Pepperoni Large,280.00 ,10.00 ,5.00 ,20.00 ,560.00 ,35.00 ,3.00 ,2.00 ,12.00 ,
+Pizza Hut,Hand Tossed Slices  Buffalo Chicken Small,130.00 ,3.50 ,1.50 ,10.00 ,380.00 ,19.00 ,<1,<1,6.00 ,
+Pizza Hut,Hand Tossed Slices  Buffalo Chicken Medium,200.00 ,5.00 ,2.50 ,20.00 ,560.00 ,28.00 ,2.00 ,1.00 ,9.00 ,
+Pizza Hut,Hand Tossed Slices  Buffalo Chicken Large,270.00 ,8.00 ,4.00 ,30.00 ,740.00 ,37.00 ,2.00 ,2.00 ,13.00 ,
+Pizza Hut,Hand Tossed Slices Cheese Small,130.00 ,4.50 ,2.00 ,10.00 ,250.00 ,17.00 ,1.00 ,<1,6.00 ,
+Pizza Hut,Hand Tossed Slices Cheese Medium,210.00 ,8.00 ,3.50 ,20.00 ,390.00 ,26.00 ,2.00 ,1.00 ,10.00 ,
+Pizza Hut,Hand Tossed Slices Cheese Large,290.00 ,10.00 ,5.00 ,30.00 ,540.00 ,34.00 ,3.00 ,2.00 ,13.00 ,
+Pizza Hut,Hand Tossed Slices Chicken Bacon Parmesan Small,150.00 ,6.00 ,2.50 ,15.00 ,270.00 ,16.00 ,1.00 ,<1,7.00 ,
+Pizza Hut,Hand Tossed Slices Chicken Bacon Parmesan Medium,230.00 ,9.00 ,4.00 ,25.00 ,410.00 ,25.00 ,2.00 ,1.00 ,11.00 ,
+Pizza Hut,Hand Tossed Slices Chicken Bacon Parmesan Large,310.00 ,13.00 ,5.00 ,35.00 ,560.00 ,33.00 ,2.00 ,1.00 ,16.00 ,
+Pizza Hut,Hand Tossed Slices Hawaiian Chicken Small,130.00 ,4.00 ,1.50 ,10.00 ,270.00 ,17.00 ,1.00 ,1.00 ,7.00 ,
+Pizza Hut,Hand Tossed Slices Hawaiian Chicken Medium,210.00 ,6.00 ,3.00 ,20.00 ,420.00 ,27.00 ,2.00 ,2.00 ,10.00 ,
+Pizza Hut,Hand Tossed Slices Hawaiian Chicken Large,280.00 ,9.00 ,4.00 ,30.00 ,580.00 ,36.00 ,3.00 ,3.00 ,15.00 ,
+Pizza Hut,Hand Tossed Slices Meat Lover’s® Small,180.00 ,9.00 ,3.50 ,20.00 ,370.00 ,17.00 ,1.00 ,<1,7.00 ,
+Pizza Hut,Hand Tossed Slices Meat Lover’s® Medium,290.00 ,15.00 ,6.00 ,30.00 ,590.00 ,26.00 ,2.00 ,1.00 ,12.00 ,
+Pizza Hut,Hand Tossed Slices Meat Lover’s® Large,390.00 ,21.00 ,8.00 ,45.00 ,830.00 ,34.00 ,3.00 ,2.00 ,17.00 ,
+Pizza Hut,Hand Tossed Slices Pepperoni Small,130.00 ,5.00 ,2.00 ,10.00 ,260.00 ,16.00 ,1.00 ,<1,6.00 ,
+Pizza Hut,Hand Tossed Slices Pepperoni Medium,220.00 ,9.00 ,4.00 ,20.00 ,420.00 ,25.00 ,2.00 ,1.00 ,9.00 ,
+Pizza Hut,Hand Tossed Slices Pepperoni Large,300.00 ,13.00 ,6.00 ,30.00 ,590.00 ,34.00 ,3.00 ,2.00 ,13.00 ,
+Pizza Hut,Hand Tossed Slices Pepperoni Lover’s® Small,160.00 ,7.00 ,3.00 ,20.00 ,310.00 ,17.00 ,1.00 ,<1,7.00 ,
+Pizza Hut,Hand Tossed Slices Pepperoni Lover’s® Medium,270.00 ,13.00 ,6.00 ,35.00 ,530.00 ,26.00 ,2.00 ,1.00 ,12.00 ,
+Pizza Hut,Hand Tossed Slices Pepperoni Lover’s® Large,370.00 ,18.00 ,8.00 ,50.00 ,740.00 ,35.00 ,3.00 ,2.00 ,17.00 ,
+Pizza Hut,Hand Tossed Slices Supreme Small,150.00 ,6.00 ,2.50 ,15.00 ,280.00 ,17.00 ,1.00 ,1.00 ,6.00 ,
+Pizza Hut,Hand Tossed Slices Supreme Medium,240.00 ,10.00 ,4.00 ,25.00 ,450.00 ,26.00 ,2.00 ,2.00 ,10.00 ,
+Pizza Hut,Hand Tossed Slices Supreme Large,320.00 ,14.00 ,6.00 ,35.00 ,630.00 ,35.00 ,3.00 ,2.00 ,14.00 ,
+Pizza Hut,Hand Tossed Slices Ultimate Cheese Lover’s® Small,150.00 ,6.00 ,2.50 ,15.00 ,250.00 ,16.00 ,1.00 ,<1,6.00 ,
+Pizza Hut,Hand Tossed Slices Ultimate Cheese Lover’s® Medium,230.00 ,10.00 ,4.50 ,25.00 ,390.00 ,25.00 ,2.00 ,1.00 ,11.00 ,
+Pizza Hut,Hand Tossed Slices Ultimate Cheese Lover’s® Large,310.00 ,13.00 ,6.00 ,35.00 ,540.00 ,33.00 ,2.00 ,1.00 ,15.00 ,
+Pizza Hut,Hand Tossed Slices Veggie Lover’s® Small,120.00 ,4.00 ,1.50 ,10.00 ,230.00 ,17.00 ,1.00 ,1.00 ,5.00 ,
+Pizza Hut,Hand Tossed Slices Veggie Lover’s® Medium,200.00 ,6.00 ,2.50 ,15.00 ,370.00 ,27.00 ,2.00 ,2.00 ,8.00 ,
+Pizza Hut,Hand Tossed Slices Veggie Lover’s® Large,260.00 ,9.00 ,4.00 ,20.00 ,510.00 ,36.00 ,3.00 ,3.00 ,11.00 ,
