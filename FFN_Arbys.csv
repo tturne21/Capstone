@@ -1,0 +1,56 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+Arbys,Arby's Melt,330,11,4,30,920,40,2,5,18,LD
+Arbys,Arby-Q Sandwich,400,10,3,30,1230,58,3,23,18,LD
+Arbys,Beef 'n Cheddar Classic,450,20,6,50,1280,45,2,9,23,LD
+Arbys,Beef 'n Cheddar Mid,630,32,11,100,2100,48,2,9,39,LD
+Arbys,Bourbon BBQ Brisket Sandwich,650,33,12,105,1460,51,2,15,38,LD
+Arbys,Bourbon BBQ Chicken Sandwich,690,31,9,90,1990,66,3,16,38,LD
+Arbys,Bourbon BBQ Steak Sandwich,690,31,9,90,1990,66,3,16,38,LD
+Arbys,Buttermilk Buffalo Chicken Sandwich,540,24,4.5,60,2110,53,2,6,29,LD
+Arbys,Buttermilk Chicken Bacon & Swiss,650,31,9,90,1750,56,2,9,39,LD
+Arbys,Buttermilk Chicken Cordon Bleu Sandwich,690,35,10,110,2000,53,1,7,41,LD
+Arbys,Buttermilk Crispy Chicken Sandwich,550,26,4.5,60,1480,52,2,6,29,LD
+Arbys,Classic French Dip & Swiss/Au Jus,540,23,11,85,2500,50,2,3,35,LD
+Arbys,Classic Roast Beef,360,14,5,50,970,37,2,5,23,LD
+Arbys,Double Roast Beef,510,24,9,95,1610,38,2,5,38,LD
+Arbys,Fire-Roasted Philly Steak,640,32,11,105,1950,46,3,4,42,LD
+Arbys,Grand Turkey Club,480,24,7,65,1610,37,2,9,30,LD
+Arbys,Greek Gyro,710,44,13,75,1360,55,4,6,23,LD
+Arbys,Half Pound Beef 'n Cheddar Sandwich,740,39,14,130,2530,48,2,9,49,LD
+Arbys,Half Pound French Dip & Swiss,750,36,17,150,3350,51,2,3,55,LD
+Arbys,Half Pound Roast Beef Sandwich,610,30,12,130,2040,38,2,5,48,LD
+Arbys,Ham & Swiss Melt,300,9,4,35,1030,37,2,6,18,LD
+Arbys,Loaded Italian Sandwich,680,40,14,100,2270,49,3,7,32,LD
+Arbys,Pecan Chicken Salad Flatbread,710,46,7,65,980,53,4,9,22,LD
+Arbys,Pecan Chicken Salad Sandwich,840,44,6,75,1210,81,6,20,33,LD
+Arbys,2 piece Prime-Cut Chicken Tenders,240,11,1.5,30,640,19,1,0,16,LD
+Arbys,3 piece Prime-Cut Chicken Tenders,360,17,2.5,45,950,28,2,0,23,LD
+Arbys,5 piece Prime-Cut Chicken Tenders,600,28,4,75,1590,47,3,0,39,LD
+Arbys,Reuben Sandwich,680,31,8,80,2420,62,4,5,37,LD
+Arbys,Roast Beef Gyro,550,29,7,60,1290,48,3,5,24,LD
+Arbys,Roast Turkey & Swiss Sandwich,710,28,7,65,1930,79,5,15,38,LD
+Arbys,Roast Turkey & Swiss Wrap,520,27,9,65,1640,39,4,6,30,LD
+Arbys,"Roast Turkey, Ranch & Bacon Sandwich",800,34,10,80,2420,79,5,16,45,LD
+Arbys,"Roast Turkey, Ranch & Bacon Wrap",620,34,11,85,2130,39,4,6,37,LD
+Arbys,Smoke Mountain w/ Beef Short Rib,740,35,13,125,2050,62,4,17,43,LD
+Arbys,Smokehouse Beef Short Rib Sandwich,590,59,10,75,1510,59,4,14,26,LD
+Arbys,Smokehouse Brisket,600,35,12,110,1240,42,2,7,33,LD
+Arbys,Super Roast Beef,430,17,5,45,1060,45,3,11,23,LD
+Arbys,Three Cheese Steak Sandwich,650,36,15,115,1760,44,2,9,30,LD
+Arbys,Triple Decker Sandwich,1030,51,17,155,2940,83,5,19,62,LD
+Arbys,Turkey Avocado Club,730,28,6,65,2140,80,6,16,41,LD
+Arbys,Turkey Gyro,470,20,3.5,45,1520,48,3,5,25,LD
+Arbys,Ultimate BLT,980,55,14,85,2130,80,6,19,43,LD
+Arbys,Buffalo Chicken Slider,290,13,2,20,860,31,2,2,12,LD
+Arbys,Chicken Tender 'n Cheese Slider,290,12,3.5,25,720,30,1,1,15,LD
+Arbys,Corned Beef 'n Cheese Slider,220,9,3.5,30,890,21,1,1,14,LD
+Arbys,Ham 'n Cheese Slider,210,8,3,25,780,21,1,2,13,LD
+Arbys,Jalapeno Roast Beef 'n Cheese Slider,240,11,4.5,30,670,21,1,1,14,LD
+Arbys,Pizza Slider,300,17,6,35,930,23,1,2,13,LD
+Arbys,Roast Beef 'n Cheese Slider,240,11,4.5,30,670,21,1,1,14,LD
+Arbys,Turkey 'n Cheese Slider,200,7,2.5,25,760,21,1,2,14,LD
+Arbys,Chopped Side Salad,70,5,2.5,15,100,4,1,2,5,LD
+Arbys,Crispy Chicken Farmhouse Salad,430,24,8,65,1000,26,4,4,28,LD
+Arbys,Greek Gyro Salad,420,37,9,55,700,11,2,4,10,LD
+Arbys,Roast Turkey Farmhouse Salad,230,13,7,55,870,8,2,5,22,LD
+Arbys,Super Greek Salad,720,53,15,85,1310,39,5,7,22,LD

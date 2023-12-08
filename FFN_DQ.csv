@@ -1,0 +1,43 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+Dairy Queen,1/2 lb. FlameThrower® GrillBurger,1000,74,26,170,1610,40,2,9,46,LD
+Dairy Queen,1/2 lb. GrillBurger with Cheese,800,51,20,135,1280,44,3,13,40,LD
+Dairy Queen,1/4 lb. Bacon Cheese GrillBurger,630,37,13,95,1250,44,2,13,30,LD
+Dairy Queen,1/4 lb. GrillBurger with Cheese,540,30,11,70,1020,44,3,13,23,LD
+Dairy Queen,1/4 lb. Mushroom Swiss GrillBurger,570,35,11,75,820,39,2,8,24,LD
+Dairy Queen,Original Cheeseburger,400,18,9,65,930,34,1,8,19,LD
+Dairy Queen,Original Double Cheeseburger,630,34,18,125,1240,34,1,9,34,LD
+Dairy Queen,4 Piece Chicken Strip Basket w/ Country Gravy,1030,53,9,80,2780,105,9,4,35,LD
+Dairy Queen,6 Piece Chicken Strip Basket w/ Country Gravy,1260,66,11,120,3500,121,12,4,49,LD
+Dairy Queen,Bacon Cheese Dog,420,26,11,60,1140,26,1,3,19,LD
+Dairy Queen,Cheese Dog,390,24,11,50,1000,26,1,3,16,LD
+Dairy Queen,Chili Cheese Dog,380,24,11,55,900,23,1,3,16,LD
+Dairy Queen,Chili Dog,330,20,8,40,1050,24,1,5,13,LD
+Dairy Queen,Hot Dog,290,17,7,35,900,22,1,4,11,LD
+Dairy Queen,Relish Dog,350,20,8,35,1000,30,1,6,13,LD
+Dairy Queen,Barbecue Pork Sandwich,310,9,3,50,830,41,2,9,17,LD
+Dairy Queen,Breaded Mushrooms,250,9,1,0,500,36,2,1,7,LD
+Dairy Queen,Regular Cheese Curds,550,45,25,150,900,0,0,0,35,LD
+Dairy Queen,Large Cheese Curds,1050,75,43,180,2210,52,0,30,43,LD
+Dairy Queen,Chili Cheese Mega Dog,760,49,21,100,1570,48,2,6,32,LD
+Dairy Queen,Corn Dog,260,15,4,20,450,26,1,7,6,LD
+Dairy Queen,Crispy Fish Sandwich,470,22,3,20,1210,53,2,7,17,LD
+Dairy Queen,Deluxe Cheeseburger,400,18,9,65,930,35,1,9,20,LD
+Dairy Queen,Deluxe Double Cheeseburger,640,34,18,125,1240,35,1,9,34,LD
+Dairy Queen,Deluxe Double Hamburger,540,26,13,100,750,34,1,9,29,LD
+Dairy Queen,Deluxe Hamburger,350,14,7,50,680,34,1,9,17,LD
+Dairy Queen,DQ Ultimate® Burger,780,48,22,150,1390,34,1,7,41,LD
+Dairy Queen,Pork Tenderloin Sandwich,580,34,7,45,910,48,2,6,19,LD
+Dairy Queen,Steak Finger Basket,910,48,13,45,2210,95,5,2,23,LD
+Dairy Queen,3 chicken strips Chicken Strips,350,20,3,60,960,22,10,0,22,LD
+Dairy Queen,Chicken Bacon Ranch Sandwich,500,20,8,65,1190,45,3,3,33,LD
+Dairy Queen,Chicken Mozzarella Sandwich,640,25,8,60,1530,68,4,3,34,LD
+Dairy Queen,Crispy Chicken BLT Salad,520,31,10,100,1470,25,9,6,37,LD
+Dairy Queen,Crispy Chicken Garden Greens Salad,280,13,2,40,670,24,9,6,17,LD
+Dairy Queen,Crispy Chicken Sandwich,600,30,5,55,1250,59,7,8,24,LD
+Dairy Queen,Crispy Chicken Wrap,350,21,5,35,820,30,2,1,12,LD
+Dairy Queen,Grilled Chicken BLT Salad,380,19,9,100,1540,11,3,6,42,LD
+Dairy Queen,Grilled Chicken Garden Greens Salad,150,2,0.5,40,730,10,3,6,23,LD
+Dairy Queen,Grilled Chicken Sandwich,360,15,3,50,1040,32,1,5,25,LD
+Dairy Queen,Grilled Chicken Wrap,280,15,4,30,800,22,1,1,15,LD
+Dairy Queen,Side Salad,20,0,0,0,15,5,2,3,1,LD
+Dairy Queen,Turkey BLT Sandwich,550,26,8,60,1420,45,3,3,30,LD

@@ -1,0 +1,54 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+Sonic,Hatch Green Chile Cheeseburger,710,43,17,120,1120,44,2,7,35,LD
+Sonic,Jalapeno Burger,640,37,14,100,930,42,2,6,31,LD
+Sonic,Jr. Burger,340,17,6,35,640,34,1,6,15,LD
+Sonic,Jr. Chili Cheeseburger,410,24,9,55,730,32,1,4,20,LD
+Sonic,Jr. Deluxe Burger,380,23,6,40,470,32,1,4,15,LD
+Sonic,Jr. Deluxe Cheeseburger,450,28,9,60,800,33,1,4,19,LD
+Sonic,Jr. Double Cheeseburger,600,38,16,110,1350,35,1,7,31,LD
+Sonic,Sonic Bacon Cheeseburger (w/mayo),870,59,20,140,1350,45,2,7,39,LD
+Sonic,Sonic Burger W/ Mustard,640,37,14,100,790,43,2,7,31,LD
+Sonic,Sonic Burger W/ Ketchup,650,37,14,100,860,46,2,10,32,LD
+Sonic,Sonic Burger W/ Mayonnaise,740,48,15,110,760,44,2,7,31,LD
+Sonic,Sonic Cheeseburger W/ Mustard,710,43,17,120,1120,43,2,7,35,LD
+Sonic,Sonic Cheeseburger W/ Ketchup,720,43,17,120,1190,47,2,10,35,LD
+Sonic,Sonic Cheeseburger W/ Mayonnaise,800,54,18,130,1090,44,2,7,35,LD
+Sonic,Super Sonic Bacon Double Cheeseburger (w/mayo),1280,92,36,260,1630,44,2,7,67,LD
+Sonic,Super Sonic Double Cheeseburger W/ Mustard,1120,76,32,235,1550,44,2,8,63,LD
+Sonic,Super Sonic Double Cheeseburger W/ Ketchup,1130,76,32,235,1620,47,2,11,63,LD
+Sonic,Super Sonic Double Cheeseburger W/ Mayo,1220,87,34,245,1520,45,2,8,63,LD
+Sonic,Super Sonic Jalapeno Double Cheeseburger,1120,76,32,235,1690,43,2,7,63,LD
+Sonic,Veggie Burger W/ Ketchup,450,14,4,10,1410,67,5,11,15,LD
+Sonic,Veggie Burger With Mustard,450,14,4,10,1350,64,5,8,15,LD
+Sonic,Veggie Burger W/ Mustard,450,14,4,10,1300,64,5,8,15,LD
+Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,30,7,110,1570,44,3,8,40,LD
+Sonic,Crispy Asiago Caesar Chicken Club Sandwich,680,39,9,80,1120,53,4,7,31,LD
+Sonic,Grilled Chicken Sandwich,430,20,4,80,940,33,2,6,28,LD
+Sonic,Crispy Chicken Sandwich,570,33,5,45,1060,47,4,6,23,LD
+Sonic,Chicken Strip Sandwich,450,24,4,35,740,43,1,4,19,LD
+Sonic,3 Piece Crispy Chicken Tender Dinner,280,14,2.5,0,800,16,0,0,22,LD
+Sonic,5 Piece Crispy Chicken Tender Dinner,470,24,4.5,0,1340,26,0,0,37,LD
+Sonic,Deluxe Ultimate Chicken Sandwich,740,39,8,90,1550,63,4,12,33,LD
+Sonic,Buffalo Dunked Ultimate Chicken Sandwich,1000,61,12,125,4520,70,5,12,23,LD
+Sonic,Garlic Parmesan Dunked Ultimate Chicken Sandwich,1350,100,17,190,2180,69,4,10,23,LD
+Sonic,Small Jumbo Popcorn Chicken,380,22,4,45,1250,27,3,1,18,LD
+Sonic,Large Jumbo Popcorn Chicken,560,32,6,65,1890,41,5,2,27,LD
+Sonic,Small Spicy Jumbo Popcorn Chicken,350,17,3,45,860,30,2,0,21,LD
+Sonic,Large Spicy Jumbo Popcorn Chicken,610,30,5,80,1500,51,3,0,36,LD
+Sonic,3 Piece Super Crunch Chicken Strip Dinner,970,46,8,55,2160,109,7,9,30,LD
+Sonic,4 Piece Super Crunch Chicken Strip Dinner,1080,51,9,75,2390,118,8,9,37,LD
+Sonic,5 Piece Super Crunch Chicken Strip Dinner,1190,57,10,90,2610,126,8,9,44,LD
+Sonic,3 Piece Super Crunch Chicken Strips,330,16,3,55,670,25,2,0,22,LD
+Sonic,4 Piece Super Crunch Chicken Strips,440,21,4,70,900,34,2,1,29,LD
+Sonic,5 Piece Super Crunch Chicken Strips,550,26,5,90,1120,42,3,1,36,LD
+Sonic,Traditional Ultimate Chicken Sandwich,730,39,8,90,1540,62,3,11,32,LD
+Sonic,Ultimate Chicken Club,100,64,15,100,2070,65,4,12,39,LD
+Sonic,"All Beef All-american Style Dog – 6""",370,18,7,40,1180,40,1,15,12,LD
+Sonic,"All Beef Chicago Dog – 6""",430,20,7,40,2310,49,1,17,14,LD
+Sonic,"All Beef Chili Cheese Coney – 6""",410,26,11,65,1140,30,2,4,17,LD
+Sonic,"All Beef New York Dog – 6""",340,19,7,40,1250,30,3,4,13,LD
+Sonic,"All Beef Regular Hot Dog – 6""",320,18,7,40,870,27,1,3,11,LD
+Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500,26,10,50,1410,46,2,7,15,LD
+Sonic,Corn Dog,210,11,4,20,530,23,2,4,6,LD
+Sonic,Footlong Quarter Pound Coney,830,54,22,85,1940,54,3,9,30,LD
+Sonic,The Original Pretzel Dog,320,18,7,35,910,27,1,2,11,LD

@@ -1,0 +1,53 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+Cava,Tahini Caesar,550,31,7,155,1200,28,4,6,37,LD
+Cava,Steak Mezze Salad*,495,33,9,105,1100,22,4,9,33,LD
+Cava,Brown Rice,310,10,1.5,0,770,48,5,2,8,Carb
+Cava,Saffron Basmati Rice,290,6,1,0,770,54,2,0,6,Carb
+Cava,RightRice®,370,10,1,0,510,53,9,0,18,Carb
+Cava,Black Lentils,260,7,1,0,520,37,15,3,17,Carb
+Cava,SuperGreens,40,0,0,0,30,8,4,3,3,Veggie
+Cava,Arugula,20,0,0,0,25,3,1,2,2,Veggie
+Cava,Baby Spinach,20,0,0,0,70,3,2,0,3,Veggie
+Cava,Romaine,20,0,0,0,10,4,3,1,1,Veggie
+Cava,SplendidGreens®,20,0,0,0,15,4,3,1,1,Veggie
+Cava,Braised Lamb,210,12,6,65,240,2,1,0,24,Pro
+Cava,Grilled Chicken,250,13,3,150,670,3,1,0,28,Pro
+Cava,Falafel,350,26,1.5,0,810,24,5,3,6,Pro
+Cava,Grilled Steak*,160,8,3,85,260,1,0,0,23,Pro
+Cava,Harissa Honey Chicken,260,14,3,135,670,7,2,3,26,Pro
+Cava,Roasted Vegetables,100,4.5,0.5,0,600,14,5,5,3,Pro
+Cava,Spicy Lamb Meatballs,300,22,8,90,680,3,1,1,24,Pro
+Cava,Shredded Romaine,5,0,0,0,0,1,0,0,0,Top
+Cava,Pita Crisps,90,4.5,0.5,0,35,10,1,1,1,Top
+Cava,Cabbage Slaw,35,3,0,0,125,2,1,1,0,Top
+Cava,Tomato + Onion,20,2,0,0,125,2,0,1,0,Top
+Cava,Persian Cucumber,15,1,0,0,110,1,0,1,0,Top
+Cava,Tomato + Cucumber,10,0,0,0,0,2,0,1,0,Top
+Cava,Kalamata Olives,50,4.5,0,0,260,2,0,0,0,Top
+Cava,Fiery Broccoli,35,2.5,0,0,170,2,1,1,1,Top
+Cava,Pickled Onions,20,0,0,0,0,5,0,4,0,Top
+Cava,Salt-Brined Pickles,5,0,0,0,280,0,0,0,0,Top
+Cava,Crumbled Feta,35,2.5,2.3,10,125,0,0,1,3,Top
+Cava,Fire-Roasted Corn,45,3,0,0,105,5,1,2,1,Top
+Cava,Avocado,160,15,2,0,10,9,7,1,2,Top
+Cava,Roasted White Sweet Potato,180,4,0.5,0,490,35,1,9,3,Top
+Cava,Tzatziki,35,2.5,1.5,10,60,1,0,1,2,Top
+Cava,Hummus,45,2.5,0,0,115,4,1,0,1,Top
+Cava,Roasted Eggplant,50,4.5,0.5,0,170,2,1,0,0,Top
+Cava,Crazy Feta®,70,6,3,10,220,1,0,0,3,Top
+Cava,Harissa,70,6,1,0,250,5,1,2,1,Top
+Cava,Red Pepper Hummus,30,1,0,0,150,4,1,1,1,Top
+Cava,Balsamic Date Vinaigrette,60,4,0.5,0,250,7,1,5,0,Top
+Cava,Yogurt Dill,30,2,1,5,190,1,0,0,2,Top
+Cava,Lemon-Herb Tahini,70,6,1,0,140,4,2,0,2,Top
+Cava,Tahini Caesar,90,8,1,0,250,3,1,0,2,Top
+Cava,Greek Vinaigrette,130,14,2,0,230,1,0,0,0,Top
+Cava,Skhug,80,9,1,0,150,1,0,0,0,Top
+Cava,Hot Harissa Vinaigrette,70,7,1,0,240,2,0,1,0,Top
+Cava,Garlic Dressing,180,20,2,0,90,0,0,0,0,Top
+Cava,Side Pita,80,2,0,0,190,13,2,1,3,Side
+Cava,Pita Chips,280,8,1,0,630,40,5,2,10,Side
+Cava,Greyston Blondie,140,6,3.5,30,40,22,0,17,2,Side
+Cava,Greyston Brownie,150,9,6,45,10,17,1,13,2,Side
+Cava,Whisked! Apricot Honey,270,11,7,45,190,42,1,24,3,Side
+Cava,"Whisked! Salted DarkChocolate Oat Cookie (DMV)",290,15,9,40,160,37,3,21,4,Side

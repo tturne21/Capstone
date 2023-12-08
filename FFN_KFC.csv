@@ -1,0 +1,71 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,390,21,4,120,1190,11,2,0,39,LD
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,130,8,2,55,430,4,1,0,12,LD
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh,280,19,5,100,910,8,1,0,19,LD
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,130,8,2,55,380,3,0,0,10,LD
+KFC,Chicken Drumstick,250,21,4,50,530,6,1,0,11,LD
+KFC,Chicken Thigh,500,40,7,100,970,11,1,1,22,LD
+KFC,Chicken Whole Wing,290,25,4,45,520,6,1,1,10,LD
+KFC,Breast,260,12,3,130,790,1,0,0,38,LD
+KFC,Drumstick,100,6,2,55,260,0,0,0,11,LD
+KFC,Thigh,180,12,4,90,470,0,0,0,17,LD
+KFC,Whole Wing,90,6,2,45,210,1,0,0,9,LD
+KFC,Breast,540,40,7,100,1390,14,2,1,31,LD
+KFC,Drumstick,190,14,3,40,510,6,1,0,9,LD
+KFC,Thigh,390,32,6,65,900,12,2,1,13,LD
+KFC,Whole Wing,180,15,3,35,450,5,1,0,8,LD
+KFC,EXTRA CRISPY  Chicken Breast,530,35,6,105,1150,18,0,0,35,LD
+KFC,EXTRA CRISPY  Chicken Drumstick,170,12,2,50,390,5,0,0,10,LD
+KFC,EXTRA CRISPY  Chicken Thigh,330,23,5,100,700,9,0,0,22,LD
+KFC,EXTRA CRISPY  Chicken Whole Wing,170,13,2,45,340,5,0,0,10,LD
+KFC,KENTUCKY GRILLED CHICKEN Breast,210,7,2,130,710,0,0,0,38,LD
+KFC,KENTUCKY GRILLED CHICKEN Drumstick,80,4,1,55,220,0,0,0,11,LD
+KFC,KENTUCKY GRILLED CHICKEN Thigh,150,9,3,90,420,0,0,0,17,LD
+KFC,KENTUCKY GRILLED CHICKEN Whole Wing,70,3,1,45,180,0,0,0,9,LD
+KFC,SPICY CRISPY CHICKEN Breast,350,20,4,100,1100,11,1,0,30,LD
+KFC,SPICY CRISPY CHICKEN Drumstick,130,8,2,40,420,5,1,0,9,LD
+KFC,SPICY CRISPY CHICKEN Thigh,270,20,4,65,720,10,1,0,13,LD
+KFC,SPICY CRISPY CHICKEN Whole Wing,120,8,2,35,350,5,0,0,7,LD
+KFC,EXTRA CRISPY  Tender (each),260,14,2,50,610,15,0,0,19,LD
+KFC,EXTRA CRISPY  Tender (each),220,16,3,25,460,9,0,0,10,LD
+KFC,KENTUCKY FRIED WINGS Buffalo,100,7,2,20,310,3,0,0,5,LD
+KFC,KENTUCKY FRIED WINGS Honey BBQ,100,6,1,20,210,8,0,4,5,LD
+KFC,KENTUCKY FRIED WINGS Nashville Hot,130,11,2,20,230,4,0,0,5,LD
+KFC,KENTUCKY FRIED WINGS Unsauced,80,6,1,20,150,3,0,0,5,LD
+KFC,POPCORN NUGGETS Kids,290,19,3,30,870,19,1,0,13,LD
+KFC,BBQ Baked Beans,190,1,0,0,650,34,7,15,11,S
+KFC,Biscuit,180,8,5,0,520,22,1,1,4,S
+KFC,Coleslaw,170,12,2,0,180,14,4,10,1,S
+KFC,Corn on the Cob,70,1,0,0,0,17,2,3,2,S
+KFC,Green Beans,25,0,0,0,300,5,3,1,1,S
+KFC,KFC® Cornbread Muffin,210,9,2,35,240,28,0,11,3,S
+KFC,Macaroni & Cheese,140,6,2,0,590,17,1,2,5,S
+KFC,Macaroni Salad,140,8,1,15,290,14,0,9,1,S
+KFC,Mashed Potatoes,110,4,1,0,330,17,1,0,2,S
+KFC,Mashed Potatoes With Gravy,130,5,1,0,520,20,1,0,3,S
+KFC,Potato Salad,340,28,5,25,290,19,2,3,2,S
+KFC,Secret Recipe Fries,320,15,2,0,1100,41,3,0,5,S
+KFC,Sweet Kernel Corn,70,1,0,0,0,16,2,2,2,S
+KFC,Coleslaw (Family),640,46,7,15,670,54,14,37,4,S
+KFC,Corn on the Cob (Family),280,2,0,0,15,67,8,11,9,S
+KFC,Green Beans (Family),80,0,0,0,930,15,9,3,4,S
+KFC,Macaroni Salad (Family),480,28,4,55,990,50,0,30,3,S
+KFC,Mashed Potatoes (Family),460,15,3,0,1410,72,6,0,9,S
+KFC,Sweet Kernel Corn (Family),280,3,0,0,10,67,7,8,10,S
+KFC,Chicken Littles,300,15,3,30,620,27,1,3,14,LD
+KFC,Chicken Littles – Buffalo,310,17,3,30,790,27,1,3,14,LD
+KFC,Chicken Littles – Honey BBQ,320,15,3,30,680,31,1,7,14,LD
+KFC,Chicken Littles – Nashville Hot,340,19,3,30,680,27,1,3,14,LD
+KFC,Classic Chicken Sandwich,650,35,5,90,1260,49,0,6,34,LD
+KFC,Crispy Colonel’s Sandwich,470,24,4,60,1170,39,0,4,24,LD
+KFC,Crispy Colonel’s Sandwich – Honey BBQ,510,25,4,60,1290,48,0,12,24,LD
+KFC,Crispy Colonel’s Sandwich – Nashville Hot,540,32,5,60,1290,40,0,5,24,LD
+KFC,Crispy Twister®,630,34,7,70,1260,53,4,3,28,LD
+KFC,Honey BBQ Sandwich,350,4,1,55,1350,55,2,22,24,LD
+KFC,KFC® Famous Bowl – Snack Size,270,14,4,20,850,27,2,1,11,LD
+KFC,Caesar Side Salad,40,2,1,5,90,2,1,1,3,S
+KFC,House Side Salad,15,0,0,0,10,3,2,2,1,S
+KFC,Country Fried Steak without Peppered White Gravy,360,24,7,35,750,22,2,0,13,LD
+KFC,Country Fried Steak with Peppered White Gravy,390,26,7,35,910,26,2,0,13,LD
+KFC,KFC® Gizzards,300,16,2,210,770,18,0,0,20,LD
+KFC,KFC® Livers,230,13,3,285,750,12,0,0,17,LD
