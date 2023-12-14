@@ -1,0 +1,61 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+Burger King,Whopper® Sandwich,660,40,12,90,980,49,2,11,28,LD
+Burger King,Whopper® Sandwich with Cheese,740,46,16,115,1340,50,2,11,32,LD
+Burger King,Double Whopper® Sandwich,900,58,20,175,1050,49,2,11,48,LD
+Burger King,Double Whopper® Sandwich with Cheese,980,64,24,195,1410,50,2,11,52,LD
+Burger King,Whopper JR.® Sandwich,310,18,5,40,390,27,1,7,13,LD
+Burger King,Single Quarter Pound King Sandwich,580,29,13,105,1310,49,2,10,32,LD
+Burger King,Single Stacker King,700,42,16,125,1360,48,1,10,35,LD
+Burger King,IMPOSSIBLE Whopper® Sandwich,630,34,11,10,1080,58,4,12,25,LD
+Burger King,Hamburger,240,10,4,35,380,26,1,6,13,LD
+Burger King,Cheeseburger,280,13,6,45,560,27,1,7,15,LD
+Burger King,Double Hamburger,350,18,7,70,410,26,1,6,21,LD
+Burger King,Double Cheeseburger,390,21,9,85,590,27,1,7,23,LD
+Burger King,Extra Long Cheeseburger,630,37,14,100,1050,45,2,9,29,LD
+Burger King,Bacon Cheeseburger,320,16,7,55,710,27,1,7,17,LD
+Burger King,Bacon Double Cheeseburger,420,24,10,90,740,27,1,7,25,LD
+Burger King,Crispy Chicken Sandwich,670,41,7,60,1080,54,2,8,23,LD
+Burger King,Spicy Crispy Chicken Sandwich,700,42,7,65,1140,57,3,8,25,LD
+Burger King,Original Chicken Sandwich,660,40,7,75,1170,48,2,5,28,LD
+Burger King,Crispy Chicken Jr.,450,30,5,30,780,34,2,5,12,LD
+Burger King,Spicy Crispy Chicken Jr.,390,21,4,30,740,37,2,6,12,LD
+Burger King,Chicken Nuggets- 4pc,170,11,2,25,310,11,1,0,8,LD
+Burger King,Chicken Nuggets- 6pc,260,16,3,35,470,16,1,0,12,LD
+Burger King,Chicken Nuggets- 10pc,430,27,5,55,780,27,2,0,20,LD
+Burger King,Spicy Chicken Nuggets- 4pc,210,15,3,20,570,11,2,0,8,LD
+Burger King,Spicy Chicken Nuggets- 6pc,320,22,5,35,850,17,3,0,12,LD
+Burger King,Spicy Chicken Nuggets- 10 pc,530,37,7,55,1420,28,4,1,20,LD
+Burger King,Chicken Fries – 9 pc.,280,17,3,35,850,20,1,1,13,LD
+Burger King,Crispy Taco,170,9,3,10,410,19,2,1,5,LD
+Burger King,BIG FISH Sandwich,510,28,5,30,1180,51,2,7,16,LD
+Burger King,Garden Chicken Salad with Crispy Chicken – no dressing,440,25,7,75,930,31,3,4,25,LD
+Burger King,Club Salad with Crispy Chicken – no dressing,540,33,10,95,1380,31,3,5,31,LD
+Burger King,Garden Side Salad – w/o dressing,60,4,3,10,95,3,1,2,4,S
+Burger King,Onion Rings – value,150,8,2,0,400,19,1,2,1,S
+Burger King,Onion Rings – small,320,16,3,0,840,41,3,4,3,S
+Burger King,Onion Rings – medium,410,21,4,0,1080,53,4,5,4,S
+Burger King,Onion Rings – large,500,25,5,0,1310,64,5,7,5,S
+Burger King,French Fries – value (unsalted),220,9,2,0,210,34,3,1,2,S
+Burger King,French Fries – small,320,13,2,0,300,49,5,1,4,S
+Burger King,French Fries – medium,380,16,2,0,360,58,6,1,4,S
+Burger King,French Fries – large,430,18,3,0,410,66,7,2,5,S
+Burger King,Kids Oatmeal,170,3,2,5,260,32,3,12,4,B
+Burger King,Chicken Nuggets- 4pc,170,11,2,25,310,11,1,0,8,LD
+Burger King,Chicken Nuggets- 6pc,260,16,3,35,470,16,1,0,12,LD
+Burger King,Hamburger,240,10,4,35,380,26,1,6,13,LD
+Burger King,Cheeseburger,280,13,6,45,560,27,1,7,15,LD
+Burger King,CROISSAN’WICH® Egg & Cheese,340,18,8,160,610,29,1,4,12,B
+Burger King,"CROISSAN’WICH® Sausage, Egg & Cheese",500,33,13,195,930,30,1,4,19,B
+Burger King,"CROISSAN’WICH® Ham, Egg & Cheese",370,19,8,175,1030,30,1,5,17,B
+Burger King,"CROISSAN’WICH® Bacon, Egg & Cheese",370,21,9,170,760,30,1,4,14,B
+Burger King,Double CROISSAN’WICH® with Sausage & Bacon,580,40,16,215,1260,31,1,5,23,B
+Burger King,Double CROISSAN’WICH® with Sausage,710,52,20,240,1420,31,1,5,29,B
+Burger King,"Sausage, Egg, & Cheese Biscuit",530,38,17,195,1440,29,1,3,19,B
+Burger King,"Bacon, Egg & Cheese Biscuit",400,26,13,170,1270,29,1,3,13,B
+Burger King,Sausage Biscuit,420,28,6,35,1050,28,1,2,12,B
+Burger King,Breakfast Burrito Jr.,370,23,8,150,930,27,3,2,15,B
+Burger King,Pancake and Sausage platter,610,31,9,80,1010,72,1,30,12,B
+Burger King,Hash Browns – small,250,16,4,0,580,24,3,0,2,BS
+Burger King,Hash Browns – medium,500,33,7,0,1140,48,7,0,4,BS
+Burger King,French Toast Sticks (3 piece),230,11,2,0,260,29,1,8,3,B
+Burger King,French Toast Sticks (5 piece),380,18,3,0,430,49,2,13,5,B

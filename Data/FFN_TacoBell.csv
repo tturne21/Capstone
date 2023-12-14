@@ -1,0 +1,92 @@
+Company,Item,Calories,TotalFat_g,SaturatedFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ItemType
+Taco Bell,Bacon Club Chalupa,440,27,5,50,840,31,2,3,20,LD
+Taco Bell,Loaded Nacho Taco,250,12,5,25,610,24,3,2,10,LD
+Taco Bell,Nacho Fries,320,18,2,5,630,35,4,2,4,S
+Taco Bell,Nacho Fries BellGrande®,710,40,6,30,1440,73,10,4,13,LD
+Taco Bell,Black Bean Chalupa – Online Exclusive,330,15,3,10,430,39,5,3,10,LD
+Taco Bell,Black Bean Quesarito – Online Exclusive,630,29,10,35,1260,73,7,5,19,LD
+Taco Bell,Quesarito – Online Exclusive,650,33,12,55,1390,67,6,5,22,LD
+Taco Bell,Chalupa Supreme® – Beef,350,18,5,25,560,33,4,3,13,LD
+Taco Bell,Chalupa Supreme® – Chicken,330,15,4,35,560,31,2,3,16,LD
+Taco Bell,Chalupa Supreme® – Steak,330,16,4,30,530,32,2,3,15,LD
+Taco Bell,Cheesy Gordita Crunch,500,28,10,55,850,41,5,4,20,LD
+Taco Bell,Crunchy Taco,170,9,4,25,310,13,3,0,8,LD
+Taco Bell,Crunchy Taco Supreme®,190,11,5,25,340,15,3,2,8,LD
+Taco Bell,Loaded Nacho Taco (New),250,12,5,25,610,24,3,2,10,LD
+Taco Bell,Nacho Cheese Doritos® Locos Taco,170,9,4,25,360,13,3,0,8,LD
+Taco Bell,Nacho Cheese Doritos® Locos Taco Supreme®,190,11,5,30,380,15,3,2,8,LD
+Taco Bell,Soft Taco – Beef,180,9,4,25,500,17,3,1,9,LD
+Taco Bell,Soft Taco – Chicken,160,5,3,30,500,16,1,1,12,LD
+Taco Bell,Soft Taco – Beef,210,10,5,25,520,20,3,2,10,LD
+Taco Bell,Soft Taco – Chicken,180,7,4,35,520,18,2,2,13,LD
+Taco Bell,Bean Burrito (V),350,9,4,5,1000,54,11,3,13,LD
+Taco Bell,Beefy 5-Layer Burrito,490,18,7,30,1250,63,9,5,18,LD
+Taco Bell,Burrito Supreme® – Beef,390,14,6,25,1110,51,9,4,16,LD
+Taco Bell,Burrito Supreme® – Chicken,370,11,5,35,1110,49,8,4,19,LD
+Taco Bell,Burrito Supreme® – Steak,370,12,5,30,1090,49,7,4,18,LD
+Taco Bell,Chili Cheese Burrito (regional),370,17,8,35,970,40,4,2,16,LD
+Taco Bell,Quesarito – Beef,650,33,12,55,1390,67,6,5,22,LD
+Taco Bell,Quesarito – Chicken,620,29,11,65,1390,66,4,4,25,LD
+Taco Bell,Quesarito – Steak,630,30,11,60,1370,66,4,4,24,LD
+Taco Bell,Chips and Nacho Cheese Sauce (V),220,13,2,5,250,24,2,2,2,S
+Taco Bell,Nacho Fries (V) (New),320,18,2,5,630,35,4,2,4,S
+Taco Bell,Nacho Fries BellGrande® (New),710,40,6,30,1440,73,10,4,13,LD
+Taco Bell,Nachos BellGrande® – Beef,740,38,7,25,1050,82,15,5,16,LD
+Taco Bell,Nachos BellGrande® – Chicken,720,35,6,35,1050,81,14,5,20,LD
+Taco Bell,Nachos BellGrande® – Steak,720,36,6,30,1030,81,14,5,19,LD
+Taco Bell,Beef Quesarito,650,33,12,55,1390,67,6,5,22,LD
+Taco Bell,Black Bean Quesarito (V),630,29,10,35,1260,73,7,5,19,LD
+Taco Bell,Quesadilla – Cheese (V),470,25,12,50,990,37,4,2,19,LD
+Taco Bell,Quesadilla – Chicken,510,26,12,75,1250,38,4,2,27,LD
+Taco Bell,Quesadilla – Steak,520,27,12,70,1230,38,4,2,27,LD
+Taco Bell,Bacon Club Chalupa – Specialties,440,27,5,50,840,31,2,3,20,LD
+Taco Bell,Black Bean Chalupa – Specialties,330,15,3,10,430,39,5,3,10,LD
+Taco Bell,Black Bean Crunchwrap Supreme – Specialties,510,17,5,5,1080,77,8,6,13,LD
+Taco Bell,Black Bean Quesarito – Specialties,630,29,10,35,1260,73,7,5,19,LD
+Taco Bell,Chalupa Supreme® – Specialties,350,18,5,25,560,33,4,3,13,LD
+Taco Bell,Cheesy Gordita Crunch – Specialties,500,28,10,55,850,41,5,4,20,LD
+Taco Bell,Cheesy Roll Up – Specialties,180,9,5,20,430,15,2,0,9,LD
+Taco Bell,Crunchwrap Supreme® – Specialties,530,21,6,25,1200,71,6,6,16,LD
+Taco Bell,Crunchy Taco – Specialties,170,9,4,25,310,13,3,0,8,LD
+Taco Bell,Nacho Cheese Doritos® Locos Taco – Specialties,170,9,4,25,360,13,3,0,8,LD
+Taco Bell,Nachos BellGrande® – Specialties,740,38,7,25,1050,82,15,5,16,LD
+Taco Bell,Power Menu Bowl – Specialties,470,19,6,70,1200,50,7,2,26,LD
+Taco Bell,Quesadilla – Specialties,510,26,12,75,1250,38,4,2,27,LD
+Taco Bell,Quesarito – Specialties,650,33,12,55,1390,67,6,5,22,LD
+Taco Bell,Soft Taco – Specialties,180,9,4,25,500,17,3,1,9,LD
+Taco Bell,Soft Taco Supreme – Specialties,210,10,5,25,520,20,3,2,10,LD
+Taco Bell,Veggie Power Menu Bowl – Specialties,430,17,5,20,810,57,10,2,12,LD
+Taco Bell,Black Beans & Rice (V),170,4,0,0,320,31,4,0,4,S
+Taco Bell,Black Beans (V),50,1,0,0,135,8,3,0,2,S
+Taco Bell,Beef Burrito – Value Menu,430,19,5,20,970,51,4,3,12,LD
+Taco Bell,Cheesy Bean & Rice Burrito – Value Menu,420,16,4,5,880,56,7,3,10,LD
+Taco Bell,Cheesy Roll Up – Value Menu,180,9,5,20,430,15,2,0,9,LD
+Taco Bell,Chicken Chipotle Melt – Value Menu,190,9,3,35,530,15,1,0,12,LD
+Taco Bell,Loaded Nacho Taco – Value Menu,250,12,5,25,610,24,3,2,10,LD
+Taco Bell,Bean Burrito,350,9,4,5,1000,54,11,3,13,LD
+Taco Bell,Black Bean Chalupa,330,15,3,10,430,39,5,3,10,LD
+Taco Bell,Black Bean Crunchwrap Supreme,510,17,5,5,1080,77,8,6,13,LD
+Taco Bell,Black Bean Quesarito,630,29,10,35,1260,73,7,5,19,LD
+Taco Bell,Black Beans & Rice,170,4,0,0,320,31,4,0,4,S
+Taco Bell,Cheese Quesadilla,470,25,12,50,990,37,4,2,19,LD
+Taco Bell,Cheesy Bean & Rice Burrito,420,16,4,5,880,56,7,3,10,LD
+Taco Bell,Cheesy Roll Up,180,9,5,20,430,15,2,0,9,LD
+Taco Bell,Chips and Nacho Cheese Sauce,220,13,2,5,250,24,2,2,2,S
+Taco Bell,Hash Brown,160,12,1,0,270,13,2,0,1,BS
+Taco Bell,Power Menu Bowl – Veggie,430,17,5,20,810,57,10,2,12,LD
+Taco Bell,Power Menu Bowl – Chicken,470,19,6,70,1200,50,7,2,26,LD
+Taco Bell,Power Menu Bowl – Steak,480,20,7,60,1150,51,7,2,25,LD
+Taco Bell,Power Menu Bowl – Veggie (V),430,17,5,20,810,57,10,2,12,LD
+Taco Bell,Breakfast Crunchwrap – Bacon,670,41,12,140,1270,50,4,3,21,B
+Taco Bell,Breakfast Crunchwrap – Sausage,720,47,15,145,1210,51,4,3,21,B
+Taco Bell,Breakfast Crunchwrap – Steak,660,38,12,145,1300,51,4,3,24,B
+Taco Bell,Cheesy Toasted Breakfast Burrito – Bacon,350,16,5,115,870,36,2,3,13,B
+Taco Bell,Cheesy Toasted Breakfast Burrito – Fiesta Potato (V),340,14,4,100,750,43,3,3,10,B
+Taco Bell,Cheesy Toasted Breakfast Burrito – Sausage,340,17,5,110,730,36,2,3,11,B
+Taco Bell,Grande Toasted Breakfast Burrito – Bacon,560,30,10,230,1290,49,4,3,24,B
+Taco Bell,Grande Toasted Breakfast Burrito – Sausage,560,31,10,230,1150,49,4,3,22,B
+Taco Bell,Grande Toasted Breakfast Burrito – Steak,560,28,9,240,1310,50,4,3,27,B
+Taco Bell,Hash Brown (V),160,12,1,0,270,13,2,0,1,BS
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Bacon,570,33,10,135,1270,49,4,2,21,B
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Sausage,570,34,10,130,1130,49,4,2,18,B
+Taco Bell,Hash Brown Toasted Breakfast Burrito – Steak,570,30,9,140,1290,50,4,2,24,B
