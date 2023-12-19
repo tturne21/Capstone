@@ -28,26 +28,47 @@ The methodology involved an extensive review of nutritional information from 13 
 
 ## Findings
 ### Key Findings
-1. Chipotle's Balanced Menu Combinations: Out of the 13 assessed restaurants, Chipotle emerged as the sole provider offering various menu combinations meeting or exceeding Minimum Daily Recommended Intakes (DRI).
-2. Industry-Wide Absence of Breakfast Options: A prevalent trend across all assessed restaurants was the absence of breakfast items, limiting the feasibility of creating comprehensive daily fast-food diet plans.
+#### Assessment Overview:
+- Analysis of 13 diverse fast-food restaurants.
+- Only four provided breakfast items; McDonald's oatmeal emerged as a preferable daily choice.
+- Excluded beverages, sauces, and dressing packets in the analysis.
+- Out of 6,000 combinations assessed:
+    - Only five met the minimum requirement of 2,000 calories.
+    - The majority fell below the 2,000-calorie threshold.
+#### Restaurants Meeting Minimum Dietary Reference Intakes (DRI):
+- Chipotle, McDonald's, Burger King, KFC, Subway, Wendy's, and Cava individually fulfilled the minimum DRI.
 
 ### Insights:
-1. Chipotle's Uniqueness: Chipotle's menu diversity uniquely fulfilled nutritional requirements, yet the absence of breakfast items remained an industry-wide trend.
-2. Opportunity for Industry Enhancement: The absence of breakfast offerings across all assessed restaurants signals an industry-wide gap, highlighting an opportunity for establishments to diversify their menus.
+#### Restaurant Selection Insights:
+- Chipotle was consistently prominent across various meal combinations.
+- Build-your-own-bowl establishments like Chipotle and Cava provide greater flexibility and control over meal choices.
+- Limited control over the availability of breakfast items across the assessed restaurants.
+- Not factoring in beverages and condiments impacts the comprehensive assessment of nutritional intake.
+#### Caloric Balance Observation:
+- Only a fraction of assessed combinations met the minimum caloric requirement, highlighting the challenge of achieving adequate caloric intake in fast-food meal planning.
 
 ## Conclusion
-The exploration encompassed an analysis of nutritional data from 13 diverse restaurants, revealing intriguing insights into the feasibility of crafting nutritionally balanced fast-food diets. Among the restaurants assessed, Chipotle emerged as the sole provider offering various menu combinations meeting or exceeding Minimum Daily Recommended Intakes (DRI). However, the broader investigation revealed a prevailing industry-wide trend of missing breakfast options across all assessed establishments.
+The analysis of 13 diverse fast-food restaurants revealed both challenges and opportunities in crafting nutritionally balanced meal combinations. While only a handful offered breakfast items, McDonald's oatmeal stood out as a suitable choice for everyday consumption. Among the assessed restaurants, Chipotle, McDonald's, Burger King, KFC, Subway, Wendy's, and Cava were capable of meeting minimum dietary requirements individually.
 
-This comprehensive exploration underscores the significance of leveraging data analysis in the fast-food industry to assess nutritional adequacy. While Chipotle showcased exceptional potential in fulfilling dietary requirements, the absence of breakfast options remains a prevalent gap within the industry. Additionally, the missing drink data across the assessed restaurants emphasizes the need for comprehensive datasets to create thorough nutritional assessments.
+Notably, Chipotle consistently featured in various balanced meal combinations, highlighting the prominence of build-your-own-bowl establishments in providing nutritional variety and control over choices. Moving forward, incorporating beverage choices and assessing the impact of condiments on nutritional content could provide a more holistic understanding of fast-food meal quality.
 
-The findings highlight both the success and limitations of current offerings within the fast-food landscape. Moving forward, efforts to address industry-wide gaps, collaborate for validation, and refine dietary recommendations are imperative for the continued evolution and enhancement of fast-food nutritional offerings.
+These findings underscore the complexity of crafting nutritionally balanced meals within the fast-food landscape, showcasing specific restaurants that stand out in fulfilling minimum dietary needs and offering greater control over meal composition.
 
 ### Recommendation
-For individuals seeking a fast-food diet aligned with nutritional requirements, Chipotle emerges as a commendable choice. Among various assessed establishments, Chipotle stands out as the sole provider offering menu combinations meeting or exceeding Minimum Daily Recommended Intakes (DRI). Despite the absence of breakfast options, Chipotle's diverse menu and commitment to transparent nutritional information make it a favorable choice for those aiming for balanced fast-food choices. Consider exploring Chipotle's menu combinations throughout the day to ensure a more comprehensive and nutritionally balanced fast-food diet.
+#### For Customers:
+- Informed Meal Selection: Prioritize restaurants providing transparent nutritional information. Consider utilizing establishments offering build-your-own-bowl options, enabling greater control over meal composition.
+- Consider Breakfast Options: Assess restaurants offering a varied breakfast menu, such as oatmeal or other nutritious options, to ensure a balanced start to the day.
+- Mindful Condiment Use: Be mindful of the nutritional impact of condiments and sauces. Opt for lighter or limited use to maintain meal balance.
+- Complete Your Meal: Accompany your meal with nutritious beverage choices to complement the nutritional balance.
+#### For Restaurant Owners:
+- Transparency in Menus: Promote transparency by displaying comprehensive nutritional information on menus, including beverages, condiments, and build-your-own-bowl options.
+- Diversify Breakfast Offerings: Expand breakfast menus with healthier and balanced options to cater to customers seeking nutritious breakfast choices.
+- Customization Options: Offer customization tools that allow customers to visualize the nutritional impact of their meal selections, empowering them to make informed choices aligned with their dietary preferences.
+- Healthy Condiment Alternatives: Introduce healthier condiment options or provide information about their nutritional impact to guide customers toward balanced meal selections.
 
 ## Next Steps
 ### Immediate Steps:
-- Incorporate Breakfast Options: Research and integrate breakfast items from various sources to supplement the morning meal, addressing the absence of breakfast options in the analyzed restaurants.
+- Include Vitamins and Minerals: Extend the analysis to include data on vitamins and minerals to provide a more holistic assessment of nutritional quality across various fast-food chains.
 - Refine User Dietary Input Integration: Further develop code functionality to seamlessly integrate user dietary preferences, allowing for personalized recommendations within the fast-food diet plans.
 - Enhance Menu Analysis: Expand the dataset to include missing drink data, ensuring a more comprehensive nutritional assessment for the analyzed restaurants.
 ### Future Directions:
@@ -62,7 +83,9 @@ Please review my full analysis in my [Code Folder](./Code/) as well as my [prese
 
 ```
 ├── Code
-│   ├── 5 Possible Meals for the Day at Chipotle.ipynb
+│   ├── Allcombinations3.csv
+│   ├── Allcombinations4.csv
+│   ├── Chipotle_combinations.csv
 │   ├── FastFood_EDA_Code.ipynb
 │   ├── FastFood.db
 │   ├── FastFood.sqbpro
