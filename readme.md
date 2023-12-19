@@ -1,7 +1,7 @@
 # Optimizing Fast Food Nutrition with Data Analysis
 By Tiana Turner
 
-Please review my full analysis in my [Code Folder](./Code/) as well as my [presentation slides](./Savvy%20Coders%20Class%20Project%20December%202023.pptx).
+Please review my full analysis in my [Code Folder](./Code/) as well as my [presentation slides](./Turner%20Capstone%20Presentation.mp4).
 
 ## Overview
 This capstone project delves into the realm of data analysis to explore the possibility of creating a nutritionally balanced fast-food diet. The project aims to leverage data-driven insights to address the challenge of meeting Minimum Daily Recommended Intakes (DRI) within the context of commonly available fast-food options. By examining nutritional data, assessing ingredients, and employing data analytics techniques, the project seeks to determine the feasibility of constructing a fast-food-based diet that aligns with established dietary guidelines.  In the initial brainstorming phase, a [MURAL persona](https://app.mural.co/t/tianat1681/m/tianat1681/1696990311419/7e4ccf388b58153517dc1b73265af2ad6988e781?sender=u947b1cc7aae55128a6989997) was created to represent the target audience or user base, guiding the project's direction towards meeting their needs and preferences.
@@ -77,7 +77,7 @@ These findings underscore the complexity of crafting nutritionally balanced meal
 - Iterative Refinement: Continuously refine algorithms and models based on insights gathered from expanded datasets and user feedback, ensuring the continuous enhancement of the dietary recommendations.
 
 ## For More Information
-Please review my full analysis in my [Code Folder](./Code/) as well as my [presentation slides](./Savvy%20Coders%20Class%20Project%20December%202023.pptx).
+Please review my full analysis in my [Code Folder](./Code/) as well as my [presentation slides](./Turner%20Capstone%20Presentation.mp4).
 
 ## Repository Structure
 
